@@ -1,0 +1,1708 @@
+Tue, 03 Jul 2018 20:53:31 - DEBUG - Success loarding image 32fc1860-1819-490a-8305-59b3aa3a24f4
+Tue, 03 Jul 2018 20:53:33 - DEBUG - Success loarding image cae2ede4-4491-4327-9990-0b05ddc01715
+Tue, 03 Jul 2018 20:53:33 - ERROR - Fail loading image a110463e-98e4-40ef-bf63-b1620f801329
+Tue, 03 Jul 2018 20:53:34 - DEBUG - Success loarding image e0b0ad40-9a64-497d-b550-9ee2a43c6bec
+Tue, 03 Jul 2018 20:53:36 - DEBUG - Success loarding image 09d812fe-9093-475e-8f1a-ed2a66c581f4
+Thu, 12 Jul 2018 16:15:29 - DEBUG - Success capture distinct image WIN_20180712_16_11_06_Pro.jpg
+Thu, 12 Jul 2018 16:15:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:29 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:29 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro.jpg
+Thu, 12 Jul 2018 16:15:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_11_Pro.jpg
+Thu, 12 Jul 2018 16:15:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (3).jpg
+Thu, 12 Jul 2018 16:15:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:31 - DEBUG - Success capture distinct image WIN_20180712_16_11_12_Pro.jpg
+Thu, 12 Jul 2018 16:15:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:31 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro.jpg
+Thu, 12 Jul 2018 16:15:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (3).jpg
+Thu, 12 Jul 2018 16:15:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:33 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro.jpg
+Thu, 12 Jul 2018 16:15:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:33 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:33 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro.jpg
+Thu, 12 Jul 2018 16:15:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (3).jpg
+Thu, 12 Jul 2018 16:15:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro.jpg
+Thu, 12 Jul 2018 16:15:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:35 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_17_Pro (2).jpg
+Thu, 12 Jul 2018 16:15:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Thu, 12 Jul 2018 16:15:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Thu, 12 Jul 2018 16:15:35 - DEBUG - Success capture distinct image WIN_20180712_16_11_17_Pro.jpg
+Thu, 12 Jul 2018 16:15:36 - DEBUG - Success loarding image c0e2f77a-85ab-11e8-83cc-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:37 - DEBUG - Success loarding image c0e31e66-85ab-11e8-809c-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:38 - DEBUG - Success loarding image c0e31e67-85ab-11e8-963e-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:39 - DEBUG - Success loarding image c0e31e68-85ab-11e8-adb5-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:40 - DEBUG - Success loarding image c0e31e69-85ab-11e8-b83f-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:50 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Thu, 12 Jul 2018 16:15:52 - DEBUG - Features similarity:0.19,: Image Id:c0e2f77a-85ab-11e8-83cc-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:52 - DEBUG - Features similarity:0.24,: Image Id:c0e31e66-85ab-11e8-809c-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:52 - DEBUG - Features similarity:0.40,: Image Id:c0e31e67-85ab-11e8-963e-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:52 - DEBUG - Features similarity:0.38,: Image Id:c0e31e68-85ab-11e8-adb5-9c6abf7cd6cc
+Thu, 12 Jul 2018 16:15:52 - DEBUG - Features similarity:0.25,: Image Id:c0e31e69-85ab-11e8-b83f-9c6abf7cd6cc
+Sun, 05 Aug 2018 16:00:26 - DEBUG - Success capture distinct image WIN_20180712_16_11_06_Pro.jpg
+Sun, 05 Aug 2018 16:00:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:27 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:27 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro.jpg
+Sun, 05 Aug 2018 16:00:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:28 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_11_Pro.jpg
+Sun, 05 Aug 2018 16:00:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:28 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:29 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (3).jpg
+Sun, 05 Aug 2018 16:00:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:29 - DEBUG - Success capture distinct image WIN_20180712_16_11_12_Pro.jpg
+Sun, 05 Aug 2018 16:00:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro.jpg
+Sun, 05 Aug 2018 16:00:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:31 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:31 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (3).jpg
+Sun, 05 Aug 2018 16:00:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro.jpg
+Sun, 05 Aug 2018 16:00:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:32 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:33 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro.jpg
+Sun, 05 Aug 2018 16:00:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (3).jpg
+Sun, 05 Aug 2018 16:00:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:35 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro.jpg
+Sun, 05 Aug 2018 16:00:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:35 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_17_Pro (2).jpg
+Sun, 05 Aug 2018 16:00:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:00:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:00:36 - DEBUG - Success capture distinct image WIN_20180712_16_11_17_Pro.jpg
+Sun, 05 Aug 2018 16:00:37 - DEBUG - Success loarding image a2a7aaca-9885-11e8-a02a-d826bb9cebb0
+Sun, 05 Aug 2018 16:00:38 - DEBUG - Success loarding image a2a7d1ba-9885-11e8-bc74-d826bb9cebb0
+Sun, 05 Aug 2018 16:00:39 - DEBUG - Success loarding image a2a7d1bb-9885-11e8-9db4-d826bb9cebb0
+Sun, 05 Aug 2018 16:00:39 - DEBUG - Success loarding image a2a7d1bc-9885-11e8-8b06-d826bb9cebb0
+Sun, 05 Aug 2018 16:00:40 - DEBUG - Success loarding image a2a7d1bd-9885-11e8-8a34-d826bb9cebb0
+Sun, 05 Aug 2018 16:00:51 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 16:02:30 - DEBUG - Success capture distinct image WIN_20180712_16_11_06_Pro.jpg
+Sun, 05 Aug 2018 16:02:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:30 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:31 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_10_Pro.jpg
+Sun, 05 Aug 2018 16:02:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_11_Pro.jpg
+Sun, 05 Aug 2018 16:02:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:32 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:33 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_12_Pro (3).jpg
+Sun, 05 Aug 2018 16:02:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:33 - DEBUG - Success capture distinct image WIN_20180712_16_11_12_Pro.jpg
+Sun, 05 Aug 2018 16:02:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_13_Pro.jpg
+Sun, 05 Aug 2018 16:02:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:34 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:35 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro (3).jpg
+Sun, 05 Aug 2018 16:02:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:36 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_14_Pro.jpg
+Sun, 05 Aug 2018 16:02:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:36 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:37 - DEBUG - Success capture distinct image WIN_20180712_16_11_15_Pro.jpg
+Sun, 05 Aug 2018 16:02:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:37 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:38 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro (3).jpg
+Sun, 05 Aug 2018 16:02:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:38 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_16_Pro.jpg
+Sun, 05 Aug 2018 16:02:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:39 - ERROR - Fail loading fuzzy image WIN_20180712_16_11_17_Pro (2).jpg
+Sun, 05 Aug 2018 16:02:39 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:02:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:02:39 - DEBUG - Success capture distinct image WIN_20180712_16_11_17_Pro.jpg
+Sun, 05 Aug 2018 16:02:40 - DEBUG - Success loarding image ec7458d4-9885-11e8-a830-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:41 - DEBUG - Success loarding image ec747fd2-9885-11e8-9bb5-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:42 - DEBUG - Success loarding image ec747fd3-9885-11e8-983b-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:43 - DEBUG - Success loarding image ec747fd4-9885-11e8-a6a2-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:44 - DEBUG - Success loarding image ec747fd5-9885-11e8-85dc-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:46 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 16:02:48 - DEBUG - Features similarity:0.19,: Image Id:ec7458d4-9885-11e8-a830-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:48 - DEBUG - Features similarity:0.24,: Image Id:ec747fd2-9885-11e8-9bb5-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:48 - DEBUG - Features similarity:0.40,: Image Id:ec747fd3-9885-11e8-983b-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:48 - DEBUG - Features similarity:0.38,: Image Id:ec747fd4-9885-11e8-a6a2-d826bb9cebb0
+Sun, 05 Aug 2018 16:02:48 - DEBUG - Features similarity:0.25,: Image Id:ec747fd5-9885-11e8-85dc-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:29 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 16:05:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:05:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:05:30 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 16:05:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:05:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:05:30 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 16:05:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:05:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:05:31 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 16:05:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:05:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:05:31 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 16:05:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 16:05:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 16:05:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 16:05:33 - DEBUG - Success loarding image 5320ac90-9886-11e8-9cd6-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:35 - DEBUG - Success loarding image 5320ac91-9886-11e8-a88c-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:37 - DEBUG - Success loarding image 5320ac92-9886-11e8-8700-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:39 - DEBUG - Success loarding image 5320ac93-9886-11e8-9eb7-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:44 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 16:05:46 - DEBUG - Features similarity:1.00,: Image Id:5320ac90-9886-11e8-9cd6-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:46 - DEBUG - Features similarity:1.00,: Image Id:5320ac91-9886-11e8-a88c-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:46 - DEBUG - Features similarity:1.00,: Image Id:5320ac92-9886-11e8-8700-d826bb9cebb0
+Sun, 05 Aug 2018 16:05:46 - DEBUG - Features similarity:1.00,: Image Id:5320ac93-9886-11e8-9eb7-d826bb9cebb0
+Sun, 05 Aug 2018 16:36:36 - DEBUG - Success capture distinct image 1
+Sun, 05 Aug 2018 16:37:29 - DEBUG - Success capture distinct image 1
+Sun, 05 Aug 2018 16:40:05 - DEBUG - Success capture distinct image 1
+Sun, 05 Aug 2018 19:54:34 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 19:54:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:54:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:54:35 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 19:54:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:54:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:54:35 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 19:54:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:54:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:54:36 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 19:54:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:54:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:54:36 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 19:54:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:54:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:54:37 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 19:54:38 - DEBUG - Success loarding image 53d78d02-98a6-11e8-8b8e-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:39 - DEBUG - Success loarding image 53d7b418-98a6-11e8-bcae-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:40 - DEBUG - Success loarding image 53d7b419-98a6-11e8-b766-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:41 - DEBUG - Success loarding image 53d7b41a-98a6-11e8-8329-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:52 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 19:54:54 - DEBUG - Features similarity:1.00,: Image Id:53d78d02-98a6-11e8-8b8e-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:54 - DEBUG - Features similarity:1.00,: Image Id:53d7b418-98a6-11e8-bcae-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:54 - DEBUG - Features similarity:1.00,: Image Id:53d7b419-98a6-11e8-b766-d826bb9cebb0
+Sun, 05 Aug 2018 19:54:54 - DEBUG - Features similarity:1.00,: Image Id:53d7b41a-98a6-11e8-8329-d826bb9cebb0
+Sun, 05 Aug 2018 19:55:38 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 19:55:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:55:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:55:38 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 19:55:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:55:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:55:39 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 19:55:39 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:55:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:55:39 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 19:55:39 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:55:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:55:40 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 19:55:40 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:55:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:55:40 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 19:55:42 - DEBUG - Success loarding image 797e4e40-98a6-11e8-92ff-d826bb9cebb0
+Sun, 05 Aug 2018 19:55:43 - DEBUG - Success loarding image 797e4e41-98a6-11e8-8460-d826bb9cebb0
+Sun, 05 Aug 2018 19:55:44 - DEBUG - Success loarding image 797e4e42-98a6-11e8-b12f-d826bb9cebb0
+Sun, 05 Aug 2018 19:55:45 - DEBUG - Success loarding image 797e4e43-98a6-11e8-9c30-d826bb9cebb0
+Sun, 05 Aug 2018 19:55:47 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 19:57:10 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 19:57:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:57:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:57:10 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 19:57:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:57:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:57:11 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 19:57:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:57:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:57:11 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 19:57:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:57:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:57:12 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 19:57:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 19:57:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 19:57:12 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 19:57:13 - DEBUG - Success loarding image b083e7d4-98a6-11e8-abb3-d826bb9cebb0
+Sun, 05 Aug 2018 19:57:14 - DEBUG - Success loarding image b083e7d5-98a6-11e8-a55e-d826bb9cebb0
+Sun, 05 Aug 2018 19:57:16 - DEBUG - Success loarding image b083e7d6-98a6-11e8-b850-d826bb9cebb0
+Sun, 05 Aug 2018 19:57:17 - DEBUG - Success loarding image b083e7d7-98a6-11e8-8ce2-d826bb9cebb0
+Sun, 05 Aug 2018 19:57:21 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing BmpImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing BufrStubImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing CurImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing DcxImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing DdsImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing EpsImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing FitsStubImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing FliImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing FpxImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing FtexImagePlugin
+Sun, 05 Aug 2018 19:57:24 - DEBUG - Importing GbrImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing GifImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing GribStubImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing Hdf5StubImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing IcnsImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing IcoImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing ImImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing ImtImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing IptcImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing JpegImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing Jpeg2KImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing McIdasImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing MicImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing MpegImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing MpoImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing MspImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PalmImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PcdImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PcxImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PdfImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PixarImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PngImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PpmImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing PsdImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing SgiImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing SpiderImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing SunImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing TgaImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing TiffImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing WebPImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing WmfImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing XbmImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing XpmImagePlugin
+Sun, 05 Aug 2018 19:57:25 - DEBUG - Importing XVThumbImagePlugin
+Sun, 05 Aug 2018 20:10:20 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 20:10:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:10:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:10:20 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 20:10:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:10:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:10:21 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 20:10:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:10:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:10:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 20:10:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:10:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:10:22 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 20:10:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:10:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:10:22 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 20:10:23 - DEBUG - Success loarding image 87398fdc-98a8-11e8-a07c-d826bb9cebb0
+Sun, 05 Aug 2018 20:10:24 - DEBUG - Success loarding image 87398fdd-98a8-11e8-be46-d826bb9cebb0
+Sun, 05 Aug 2018 20:10:25 - DEBUG - Success loarding image 87398fde-98a8-11e8-a863-d826bb9cebb0
+Sun, 05 Aug 2018 20:10:26 - DEBUG - Success loarding image 87398fdf-98a8-11e8-9b28-d826bb9cebb0
+Sun, 05 Aug 2018 20:10:31 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing BmpImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing BufrStubImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing CurImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing DcxImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing DdsImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing EpsImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing FitsStubImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing FliImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing FpxImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing FtexImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing GbrImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing GifImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing GribStubImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing Hdf5StubImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing IcnsImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing IcoImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing ImImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing ImtImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing IptcImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing JpegImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing Jpeg2KImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing McIdasImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing MicImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing MpegImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing MpoImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing MspImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PalmImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PcdImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PcxImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PdfImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PixarImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PngImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PpmImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing PsdImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing SgiImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing SpiderImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing SunImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing TgaImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing TiffImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing WebPImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing WmfImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing XbmImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing XpmImagePlugin
+Sun, 05 Aug 2018 20:10:33 - DEBUG - Importing XVThumbImagePlugin
+Sun, 05 Aug 2018 20:20:33 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 20:20:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:20:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:20:38 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 20:20:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:20:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:20:40 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 20:20:40 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:20:48 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:20:48 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 20:20:48 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:20:51 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:20:51 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 20:20:51 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:20:53 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:20:53 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 20:20:54 - DEBUG - Success loarding image ff55171c-98a9-11e8-acd6-d826bb9cebb0
+Sun, 05 Aug 2018 20:20:56 - DEBUG - Success loarding image ff55171d-98a9-11e8-b202-d826bb9cebb0
+Sun, 05 Aug 2018 20:20:57 - DEBUG - Success loarding image ff55171e-98a9-11e8-9245-d826bb9cebb0
+Sun, 05 Aug 2018 20:20:58 - DEBUG - Success loarding image ff55171f-98a9-11e8-a34a-d826bb9cebb0
+Sun, 05 Aug 2018 20:21:04 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing BmpImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing BufrStubImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing CurImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing DcxImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing DdsImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing EpsImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing FitsStubImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing FliImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing FpxImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing FtexImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing GbrImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing GifImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing GribStubImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing Hdf5StubImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing IcnsImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing IcoImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing ImImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing ImtImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing IptcImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing JpegImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing Jpeg2KImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing McIdasImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing MicImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing MpegImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing MpoImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing MspImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PalmImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PcdImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PcxImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PdfImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PixarImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PngImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PpmImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing PsdImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing SgiImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing SpiderImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing SunImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing TgaImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing TiffImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing WebPImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing WmfImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing XbmImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing XpmImagePlugin
+Sun, 05 Aug 2018 20:21:07 - DEBUG - Importing XVThumbImagePlugin
+Sun, 05 Aug 2018 20:24:23 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 20:24:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:24:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:24:27 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 20:24:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:24:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:24:32 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 20:24:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:24:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:24:35 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 20:24:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:24:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:24:37 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 20:24:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:24:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:24:39 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 20:24:40 - DEBUG - Success loarding image 860b1e02-98aa-11e8-981f-d826bb9cebb0
+Sun, 05 Aug 2018 20:24:41 - DEBUG - Success loarding image 860b1e03-98aa-11e8-898d-d826bb9cebb0
+Sun, 05 Aug 2018 20:24:42 - DEBUG - Success loarding image 860b1e04-98aa-11e8-8d37-d826bb9cebb0
+Sun, 05 Aug 2018 20:24:43 - DEBUG - Success loarding image 860b1e05-98aa-11e8-b04a-d826bb9cebb0
+Sun, 05 Aug 2018 20:30:09 - DEBUG - Success capture distinct image 1.jpg
+Sun, 05 Aug 2018 20:30:09 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:30:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:30:12 - DEBUG - Success capture distinct image 2.jpg
+Sun, 05 Aug 2018 20:30:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:30:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:30:15 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Sun, 05 Aug 2018 20:30:15 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:30:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:30:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Sun, 05 Aug 2018 20:30:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:30:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:30:19 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Sun, 05 Aug 2018 20:30:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Sun, 05 Aug 2018 20:30:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Sun, 05 Aug 2018 20:30:36 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Sun, 05 Aug 2018 20:30:37 - DEBUG - Success loarding image 5ac82fb8-98ab-11e8-8f4e-d826bb9cebb0
+Sun, 05 Aug 2018 20:30:38 - DEBUG - Success loarding image 5ac82fb9-98ab-11e8-abc2-d826bb9cebb0
+Sun, 05 Aug 2018 20:30:39 - DEBUG - Success loarding image 5ac82fba-98ab-11e8-9849-d826bb9cebb0
+Sun, 05 Aug 2018 20:30:40 - DEBUG - Success loarding image 5ac82fbb-98ab-11e8-9c01-d826bb9cebb0
+Mon, 06 Aug 2018 13:20:38 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:20:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:20:41 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:20:41 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:20:41 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:20:49 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:20:49 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:20:49 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:20:51 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:20:51 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:20:51 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:20:52 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:20:52 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:20:52 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:20:53 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:20:53 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:20:54 - DEBUG - Success loarding image 7d3a9ea6-9938-11e8-8fce-d826bb9cebb0
+Mon, 06 Aug 2018 13:20:55 - DEBUG - Success loarding image 7d3a9ea7-9938-11e8-8681-d826bb9cebb0
+Mon, 06 Aug 2018 13:20:56 - DEBUG - Success loarding image 7d3a9ea8-9938-11e8-adab-d826bb9cebb0
+Mon, 06 Aug 2018 13:20:57 - DEBUG - Success loarding image 7d3a9ea9-9938-11e8-8c37-d826bb9cebb0
+Mon, 06 Aug 2018 13:23:13 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:23:13 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:23:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:23:15 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:23:15 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:23:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:23:15 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:23:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:23:18 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:23:18 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:23:18 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:23:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:23:22 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:23:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:23:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:23:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:23:24 - DEBUG - Success loarding image d6cc1fc8-9938-11e8-805e-d826bb9cebb0
+Mon, 06 Aug 2018 13:23:25 - DEBUG - Success loarding image d6cc1fc9-9938-11e8-ae27-d826bb9cebb0
+Mon, 06 Aug 2018 13:23:26 - DEBUG - Success loarding image d6cc1fca-9938-11e8-bf6a-d826bb9cebb0
+Mon, 06 Aug 2018 13:23:27 - DEBUG - Success loarding image d6cc1fcb-9938-11e8-84a3-d826bb9cebb0
+Mon, 06 Aug 2018 13:26:38 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:26:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:26:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:26:40 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:26:40 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:26:43 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:26:43 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:26:43 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:26:46 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:26:46 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:26:46 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:26:48 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:26:48 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:26:48 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:26:50 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:26:50 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:26:52 - DEBUG - Success loarding image 5253e61e-9939-11e8-8d6e-d826bb9cebb0
+Mon, 06 Aug 2018 13:26:53 - DEBUG - Success loarding image 5253e61f-9939-11e8-8c79-d826bb9cebb0
+Mon, 06 Aug 2018 13:26:54 - DEBUG - Success loarding image 5253e620-9939-11e8-98b5-d826bb9cebb0
+Mon, 06 Aug 2018 13:26:55 - DEBUG - Success loarding image 5253e621-9939-11e8-a5e2-d826bb9cebb0
+Mon, 06 Aug 2018 13:26:59 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing BmpImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing BufrStubImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing CurImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing DcxImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing DdsImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing EpsImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing FitsStubImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing FliImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing FpxImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing FtexImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing GbrImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing GifImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing GribStubImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing Hdf5StubImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing IcnsImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing IcoImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing ImImagePlugin
+Mon, 06 Aug 2018 13:27:03 - DEBUG - Importing ImtImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing IptcImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing JpegImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing Jpeg2KImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing McIdasImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing MicImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing MpegImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing MpoImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing MspImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PalmImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PcdImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PcxImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PdfImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PixarImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PngImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PpmImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing PsdImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing SgiImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing SpiderImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing SunImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing TgaImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing TiffImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing WebPImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing WmfImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing XbmImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing XpmImagePlugin
+Mon, 06 Aug 2018 13:27:04 - DEBUG - Importing XVThumbImagePlugin
+Mon, 06 Aug 2018 13:34:08 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:34:08 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:34:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:34:10 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:34:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:34:37 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:34:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:35:13 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:35:13 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:35:14 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:35:16 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:35:16 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:35:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:35:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:35:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:35:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:35:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:35:38 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:35:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:35:49 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:35:49 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:35:51 - DEBUG - Success loarding image 939bfd9c-993a-11e8-9062-d826bb9cebb0
+Mon, 06 Aug 2018 13:35:52 - DEBUG - Success loarding image 939c2486-993a-11e8-aa4a-d826bb9cebb0
+Mon, 06 Aug 2018 13:35:53 - DEBUG - Success loarding image 939c2487-993a-11e8-8952-d826bb9cebb0
+Mon, 06 Aug 2018 13:35:54 - DEBUG - Success loarding image 939c2488-993a-11e8-a240-d826bb9cebb0
+Mon, 06 Aug 2018 13:35:58 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing BmpImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing BufrStubImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing CurImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing DcxImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing DdsImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing EpsImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing FitsStubImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing FliImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing FpxImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing FtexImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing GbrImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing GifImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing GribStubImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing Hdf5StubImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing IcnsImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing IcoImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing ImImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing ImtImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing IptcImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing JpegImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing Jpeg2KImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing McIdasImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing MicImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing MpegImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing MpoImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing MspImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PalmImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PcdImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PcxImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PdfImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PixarImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PngImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PpmImagePlugin
+Mon, 06 Aug 2018 13:35:59 - DEBUG - Importing PsdImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing SgiImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing SpiderImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing SunImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing TgaImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing TiffImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing WebPImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing WmfImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing XbmImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing XpmImagePlugin
+Mon, 06 Aug 2018 13:36:00 - DEBUG - Importing XVThumbImagePlugin
+Mon, 06 Aug 2018 13:37:26 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:37:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:37:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:37:28 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:37:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:37:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:37:31 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:37:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:37:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:37:35 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:37:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:37:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:37:38 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:37:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:37:46 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:37:46 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:37:47 - DEBUG - Success loarding image d9022e08-993a-11e8-9431-d826bb9cebb0
+Mon, 06 Aug 2018 13:37:48 - DEBUG - Success loarding image d90254fe-993a-11e8-bbe6-d826bb9cebb0
+Mon, 06 Aug 2018 13:37:49 - DEBUG - Success loarding image d90254ff-993a-11e8-8eb1-d826bb9cebb0
+Mon, 06 Aug 2018 13:37:49 - DEBUG - Success loarding image d9025500-993a-11e8-8037-d826bb9cebb0
+Mon, 06 Aug 2018 13:37:53 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:38:48 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:38:48 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:38:50 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:38:50 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:38:50 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:38:54 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:38:54 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:38:54 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:38:56 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:38:56 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:38:56 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:38:58 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:38:58 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:38:58 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:39:00 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:39:00 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:39:02 - DEBUG - Success loarding image 0583939e-993b-11e8-908b-d826bb9cebb0
+Mon, 06 Aug 2018 13:39:02 - DEBUG - Success loarding image 0583939f-993b-11e8-bffc-d826bb9cebb0
+Mon, 06 Aug 2018 13:39:03 - DEBUG - Success loarding image 058393a0-993b-11e8-bae4-d826bb9cebb0
+Mon, 06 Aug 2018 13:39:04 - DEBUG - Success loarding image 058393a1-993b-11e8-97c3-d826bb9cebb0
+Mon, 06 Aug 2018 13:39:07 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:40:06 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:40:06 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:40:07 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:40:07 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:40:07 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:40:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:40:10 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:40:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:40:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:40:12 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:40:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:40:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:40:12 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:40:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:40:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:40:15 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:40:16 - DEBUG - Success loarding image 31cbb574-993b-11e8-a85b-d826bb9cebb0
+Mon, 06 Aug 2018 13:40:17 - DEBUG - Success loarding image 31cbb575-993b-11e8-814e-d826bb9cebb0
+Mon, 06 Aug 2018 13:40:17 - DEBUG - Success loarding image 31cbb576-993b-11e8-98fe-d826bb9cebb0
+Mon, 06 Aug 2018 13:40:18 - DEBUG - Success loarding image 31cbb577-993b-11e8-b8db-d826bb9cebb0
+Mon, 06 Aug 2018 13:40:21 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:44:51 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:44:51 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:44:52 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:44:52 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:44:52 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:44:54 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:44:54 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:44:54 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:44:55 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:44:55 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:44:55 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:44:56 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:44:56 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:44:57 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:02 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:47:02 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:03 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:47:03 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:47:03 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:07 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:47:07 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:47:07 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:09 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:47:09 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:47:09 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:47:11 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:47:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:47:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:47:12 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:47:13 - DEBUG - Success loarding image 2ab47624-993c-11e8-afa8-d826bb9cebb0
+Mon, 06 Aug 2018 13:47:14 - DEBUG - Success loarding image 2ab47625-993c-11e8-9ef5-d826bb9cebb0
+Mon, 06 Aug 2018 13:47:16 - DEBUG - Success loarding image 2ab47626-993c-11e8-819a-d826bb9cebb0
+Mon, 06 Aug 2018 13:47:17 - DEBUG - Success loarding image 2ab47627-993c-11e8-b05a-d826bb9cebb0
+Mon, 06 Aug 2018 13:52:48 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:52:48 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:52:51 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:52:51 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:52:51 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:53:06 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:53:06 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:53:06 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:53:09 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:53:09 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:53:09 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:53:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:53:11 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:53:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:53:13 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:53:13 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:53:14 - DEBUG - Success loarding image 01b082dc-993d-11e8-9651-d826bb9cebb0
+Mon, 06 Aug 2018 13:53:15 - DEBUG - Success loarding image 01b082dd-993d-11e8-974f-d826bb9cebb0
+Mon, 06 Aug 2018 13:53:16 - DEBUG - Success loarding image 01b082de-993d-11e8-8fd2-d826bb9cebb0
+Mon, 06 Aug 2018 13:53:17 - DEBUG - Success loarding image 01b082df-993d-11e8-a0da-d826bb9cebb0
+Mon, 06 Aug 2018 13:54:03 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:54:03 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:54:05 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:54:05 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:54:05 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:54:07 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:54:07 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:54:07 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:54:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:54:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:54:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:54:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:54:12 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:54:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:54:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:54:38 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:54:39 - DEBUG - Success loarding image 34854f0a-993d-11e8-aa3f-d826bb9cebb0
+Mon, 06 Aug 2018 13:54:40 - DEBUG - Success loarding image 34854f0b-993d-11e8-8ac8-d826bb9cebb0
+Mon, 06 Aug 2018 13:54:41 - DEBUG - Success loarding image 34854f0c-993d-11e8-a4f6-d826bb9cebb0
+Mon, 06 Aug 2018 13:54:42 - DEBUG - Success loarding image 34854f0d-993d-11e8-b93b-d826bb9cebb0
+Mon, 06 Aug 2018 13:54:45 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:55:24 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:55:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:55:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:55:28 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:55:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:55:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:55:30 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:55:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:55:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:55:34 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:55:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:55:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:55:37 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:55:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:55:45 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:55:45 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:55:46 - DEBUG - Success loarding image 5c60b77a-993d-11e8-b778-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:47 - DEBUG - Success loarding image 5c60b77b-993d-11e8-98e1-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:48 - DEBUG - Success loarding image 5c60b77c-993d-11e8-a22c-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:49 - DEBUG - Success loarding image 5c60b77d-993d-11e8-a02b-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:51 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:55:53 - DEBUG - Features similarity:1.00,: Image Id:5c60b77a-993d-11e8-b778-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:53 - DEBUG - Features similarity:1.00,: Image Id:5c60b77b-993d-11e8-98e1-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:53 - DEBUG - Features similarity:1.00,: Image Id:5c60b77c-993d-11e8-a22c-d826bb9cebb0
+Mon, 06 Aug 2018 13:55:53 - DEBUG - Features similarity:1.00,: Image Id:5c60b77d-993d-11e8-a02b-d826bb9cebb0
+Mon, 06 Aug 2018 13:57:20 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 13:57:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:57:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:57:28 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 13:57:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:57:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:57:30 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 13:57:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:57:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:57:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 13:57:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:57:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:57:36 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 13:57:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 13:57:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 13:57:39 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 13:57:40 - DEBUG - Success loarding image 9ffd7978-993d-11e8-9de6-d826bb9cebb0
+Mon, 06 Aug 2018 13:57:41 - DEBUG - Success loarding image 9ffd7979-993d-11e8-90f9-d826bb9cebb0
+Mon, 06 Aug 2018 13:57:42 - DEBUG - Success loarding image 9ffd797a-993d-11e8-b035-d826bb9cebb0
+Mon, 06 Aug 2018 13:57:43 - DEBUG - Success loarding image 9ffd797b-993d-11e8-9f3e-d826bb9cebb0
+Mon, 06 Aug 2018 13:57:47 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing BmpImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing BufrStubImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing CurImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing DcxImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing DdsImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing EpsImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing FitsStubImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing FliImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing FpxImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing FtexImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing GbrImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing GifImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing GribStubImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing Hdf5StubImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing IcnsImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing IcoImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing ImImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing ImtImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing IptcImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing JpegImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing Jpeg2KImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing McIdasImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing MicImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing MpegImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing MpoImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing MspImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PalmImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PcdImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PcxImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PdfImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PixarImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PngImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PpmImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing PsdImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing SgiImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing SpiderImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing SunImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing TgaImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing TiffImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing WebPImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing WmfImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing XbmImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing XpmImagePlugin
+Mon, 06 Aug 2018 13:57:49 - DEBUG - Importing XVThumbImagePlugin
+Mon, 06 Aug 2018 14:17:42 - DEBUG - Success capture distinct image 1.jpg
+Mon, 06 Aug 2018 14:17:42 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:17:45 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:17:45 - DEBUG - Success capture distinct image 2.jpg
+Mon, 06 Aug 2018 14:17:45 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:25 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 14:18:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:28 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro (2).jpg
+Mon, 06 Aug 2018 14:18:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:34 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro.jpg
+Mon, 06 Aug 2018 14:18:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:47 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:47 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro (2).jpg
+Mon, 06 Aug 2018 14:18:47 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:50 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:50 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro.jpg
+Mon, 06 Aug 2018 14:18:50 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:54 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:54 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro (2).jpg
+Mon, 06 Aug 2018 14:18:54 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:18:57 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:18:57 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro.jpg
+Mon, 06 Aug 2018 14:18:57 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:00 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:00 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro (2).jpg
+Mon, 06 Aug 2018 14:19:00 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:05 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:05 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 14:19:05 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:08 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:08 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro (2).jpg
+Mon, 06 Aug 2018 14:19:08 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro.jpg
+Mon, 06 Aug 2018 14:19:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:13 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:13 - DEBUG - Success capture distinct image WIN_20180705_19_57_40_Pro.jpg
+Mon, 06 Aug 2018 14:19:13 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:19:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:19:17 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_45_Pro (2).jpg
+Mon, 06 Aug 2018 14:19:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:29 - DEBUG - Success capture distinct image WIN_20180705_19_57_45_Pro.jpg
+Mon, 06 Aug 2018 14:20:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:34 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 14:20:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:36 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 14:20:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:38 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro.jpg
+Mon, 06 Aug 2018 14:20:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:41 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:41 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro (2).jpg
+Mon, 06 Aug 2018 14:20:41 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:44 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:44 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro.jpg
+Mon, 06 Aug 2018 14:20:44 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:48 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:48 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (2).jpg
+Mon, 06 Aug 2018 14:20:48 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:50 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:50 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (3).jpg
+Mon, 06 Aug 2018 14:20:50 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:20:54 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:20:54 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro.jpg
+Mon, 06 Aug 2018 14:20:54 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:05 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:05 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (2).jpg
+Mon, 06 Aug 2018 14:21:05 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:08 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:08 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (3).jpg
+Mon, 06 Aug 2018 14:21:08 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro.jpg
+Mon, 06 Aug 2018 14:21:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:14 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:14 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (2).jpg
+Mon, 06 Aug 2018 14:21:14 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:19 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (3).jpg
+Mon, 06 Aug 2018 14:21:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:25 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro.jpg
+Mon, 06 Aug 2018 14:21:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:21:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:21:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_51_Pro.jpg
+Mon, 06 Aug 2018 14:27:07 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 14:27:07 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:22 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro.jpg
+Mon, 06 Aug 2018 14:27:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:26 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:30 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro.jpg
+Mon, 06 Aug 2018 14:27:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:31 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:31 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro.jpg
+Mon, 06 Aug 2018 14:27:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 14:27:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:33 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:33 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro.jpg
+Mon, 06 Aug 2018 14:27:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:33 - DEBUG - Success capture distinct image WIN_20180705_19_57_40_Pro.jpg
+Mon, 06 Aug 2018 14:27:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:34 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_45_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:34 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:34 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:34 - DEBUG - Success capture distinct image WIN_20180705_19_57_45_Pro.jpg
+Mon, 06 Aug 2018 14:27:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:35 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:35 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 14:27:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:36 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro.jpg
+Mon, 06 Aug 2018 14:27:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:36 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:37 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro.jpg
+Mon, 06 Aug 2018 14:27:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:37 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:38 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (3).jpg
+Mon, 06 Aug 2018 14:27:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:38 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:38 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro.jpg
+Mon, 06 Aug 2018 14:27:38 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:39 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:39 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:39 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:39 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (3).jpg
+Mon, 06 Aug 2018 14:27:39 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:40 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro.jpg
+Mon, 06 Aug 2018 14:27:40 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:40 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:40 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (2).jpg
+Mon, 06 Aug 2018 14:27:40 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:41 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:41 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (3).jpg
+Mon, 06 Aug 2018 14:27:41 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:41 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:41 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro.jpg
+Mon, 06 Aug 2018 14:27:41 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:27:42 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:27:42 - DEBUG - Success capture distinct image WIN_20180705_19_57_51_Pro.jpg
+Mon, 06 Aug 2018 14:27:44 - DEBUG - Success loarding image d2ae77f8-9941-11e8-a1b1-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:46 - DEBUG - Success loarding image d2ae77f9-9941-11e8-a316-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:47 - DEBUG - Success loarding image d2ae77fa-9941-11e8-927f-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:49 - DEBUG - Success loarding image d2ae77fb-9941-11e8-8749-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:51 - DEBUG - Success loarding image d2ae77fc-9941-11e8-8e41-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:52 - DEBUG - Success loarding image d2ae77fd-9941-11e8-872c-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:53 - DEBUG - Success loarding image d2ae77fe-9941-11e8-8124-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:55 - DEBUG - Success loarding image d2ae77ff-9941-11e8-8c60-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:56 - DEBUG - Success loarding image d2ae7800-9941-11e8-a53e-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:58 - DEBUG - Success loarding image d2ae7801-9941-11e8-8834-d826bb9cebb0
+Mon, 06 Aug 2018 14:27:59 - DEBUG - Success loarding image d2ae7802-9941-11e8-9ab6-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:00 - DEBUG - Success loarding image d2ae7803-9941-11e8-9929-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:02 - DEBUG - Success loarding image d2ae7804-9941-11e8-8db6-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:04 - DEBUG - Success loarding image d2ae7805-9941-11e8-9759-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:05 - DEBUG - Success loarding image d2ae7806-9941-11e8-8116-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:06 - DEBUG - Success loarding image d2ae7807-9941-11e8-a72f-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:07 - DEBUG - Success loarding image d2ae7808-9941-11e8-9b82-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:08 - DEBUG - Success loarding image d2ae7809-9941-11e8-97eb-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:10 - DEBUG - Success loarding image d2ae780a-9941-11e8-be91-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:11 - DEBUG - Success loarding image d2ae780b-9941-11e8-8ad4-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:12 - DEBUG - Success loarding image d2ae780c-9941-11e8-a9df-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:13 - DEBUG - Success loarding image d2ae780d-9941-11e8-9194-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:14 - DEBUG - Success loarding image d2ae780e-9941-11e8-88f3-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:15 - DEBUG - Success loarding image d2ae780f-9941-11e8-9022-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:16 - DEBUG - Success loarding image d2ae7810-9941-11e8-b19c-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:17 - DEBUG - Success loarding image d2ae7811-9941-11e8-b913-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:22 - INFO - Restoring parameters from D:/IrisReco/model_center_nor/model.ckpt-6000
+Mon, 06 Aug 2018 14:28:27 - DEBUG - Features similarity:1.00,: Image Id:d2ae77f8-9941-11e8-a1b1-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:27 - DEBUG - Features similarity:0.91,: Image Id:d2ae77f9-9941-11e8-a316-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.62,: Image Id:d2ae77fa-9941-11e8-927f-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.86,: Image Id:d2ae77fb-9941-11e8-8749-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.87,: Image Id:d2ae77fc-9941-11e8-8e41-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.86,: Image Id:d2ae77fd-9941-11e8-872c-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:1.00,: Image Id:d2ae77fe-9941-11e8-8124-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:1.00,: Image Id:d2ae77ff-9941-11e8-8c60-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.71,: Image Id:d2ae7800-9941-11e8-a53e-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.80,: Image Id:d2ae7801-9941-11e8-8834-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.66,: Image Id:d2ae7802-9941-11e8-9ab6-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.78,: Image Id:d2ae7803-9941-11e8-9929-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:1.00,: Image Id:d2ae7804-9941-11e8-8db6-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.52,: Image Id:d2ae7805-9941-11e8-9759-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.63,: Image Id:d2ae7806-9941-11e8-8116-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.67,: Image Id:d2ae7807-9941-11e8-a72f-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.67,: Image Id:d2ae7808-9941-11e8-9b82-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.63,: Image Id:d2ae7809-9941-11e8-97eb-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.64,: Image Id:d2ae780a-9941-11e8-be91-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.51,: Image Id:d2ae780b-9941-11e8-8ad4-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.49,: Image Id:d2ae780c-9941-11e8-a9df-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.71,: Image Id:d2ae780d-9941-11e8-9194-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.55,: Image Id:d2ae780e-9941-11e8-88f3-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.52,: Image Id:d2ae780f-9941-11e8-9022-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.51,: Image Id:d2ae7810-9941-11e8-b19c-d826bb9cebb0
+Mon, 06 Aug 2018 14:28:28 - DEBUG - Features similarity:0.40,: Image Id:d2ae7811-9941-11e8-b913-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:16 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 14:56:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:16 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:16 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro.jpg
+Mon, 06 Aug 2018 14:56:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro.jpg
+Mon, 06 Aug 2018 14:56:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:18 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:18 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:18 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:18 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:18 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro.jpg
+Mon, 06 Aug 2018 14:56:18 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:19 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:19 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 14:56:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro.jpg
+Mon, 06 Aug 2018 14:56:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_40_Pro.jpg
+Mon, 06 Aug 2018 14:56:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:21 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_45_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:22 - DEBUG - Success capture distinct image WIN_20180705_19_57_45_Pro.jpg
+Mon, 06 Aug 2018 14:56:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:22 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 14:56:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro.jpg
+Mon, 06 Aug 2018 14:56:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:24 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:24 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro.jpg
+Mon, 06 Aug 2018 14:56:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:25 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:25 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (3).jpg
+Mon, 06 Aug 2018 14:56:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:26 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro.jpg
+Mon, 06 Aug 2018 14:56:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:26 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (3).jpg
+Mon, 06 Aug 2018 14:56:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro.jpg
+Mon, 06 Aug 2018 14:56:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (2).jpg
+Mon, 06 Aug 2018 14:56:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:28 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (3).jpg
+Mon, 06 Aug 2018 14:56:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:28 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro.jpg
+Mon, 06 Aug 2018 14:56:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 14:56:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 14:56:29 - DEBUG - Success capture distinct image WIN_20180705_19_57_51_Pro.jpg
+Mon, 06 Aug 2018 14:56:30 - DEBUG - Success loarding image d83237ec-9945-11e8-9aae-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:31 - DEBUG - Success loarding image d8325ee2-9945-11e8-8192-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:32 - DEBUG - Success loarding image d8325ee3-9945-11e8-bd16-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:33 - DEBUG - Success loarding image d8325ee4-9945-11e8-a2dd-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:34 - DEBUG - Success loarding image d8325ee5-9945-11e8-a899-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:36 - DEBUG - Success loarding image d8325ee6-9945-11e8-a83a-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:37 - DEBUG - Success loarding image d8325ee7-9945-11e8-9cc1-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:38 - DEBUG - Success loarding image d8325ee8-9945-11e8-bee0-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:39 - DEBUG - Success loarding image d8325ee9-9945-11e8-88f8-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:40 - DEBUG - Success loarding image d8325eea-9945-11e8-979a-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:41 - DEBUG - Success loarding image d8325eeb-9945-11e8-8e10-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:42 - DEBUG - Success loarding image d8325eec-9945-11e8-888a-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:43 - DEBUG - Success loarding image d8325eed-9945-11e8-b29e-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:44 - DEBUG - Success loarding image d8325eee-9945-11e8-ac11-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:45 - DEBUG - Success loarding image d8325eef-9945-11e8-b487-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:46 - DEBUG - Success loarding image d8325ef0-9945-11e8-aa71-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:47 - DEBUG - Success loarding image d8325ef1-9945-11e8-a5fe-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:48 - DEBUG - Success loarding image d8325ef2-9945-11e8-9185-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:49 - DEBUG - Success loarding image d8325ef3-9945-11e8-81e3-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:50 - DEBUG - Success loarding image d8325ef4-9945-11e8-83fd-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:51 - DEBUG - Success loarding image d8325ef5-9945-11e8-8ffd-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:52 - DEBUG - Success loarding image d8325ef6-9945-11e8-996e-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:53 - DEBUG - Success loarding image d8325ef7-9945-11e8-aafc-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:54 - DEBUG - Success loarding image d8325ef8-9945-11e8-9e77-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:55 - DEBUG - Success loarding image d8325ef9-9945-11e8-a0fb-d826bb9cebb0
+Mon, 06 Aug 2018 14:56:56 - DEBUG - Success loarding image d8325efa-9945-11e8-b7f6-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:07 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 15:02:07 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:08 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:08 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:08 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:08 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:08 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro.jpg
+Mon, 06 Aug 2018 15:02:08 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:09 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:09 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:09 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:09 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:09 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro.jpg
+Mon, 06 Aug 2018 15:02:09 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:10 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:10 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro.jpg
+Mon, 06 Aug 2018 15:02:10 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:11 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:11 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:11 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 15:02:11 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:12 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:12 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:12 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro.jpg
+Mon, 06 Aug 2018 15:02:12 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:13 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:13 - DEBUG - Success capture distinct image WIN_20180705_19_57_40_Pro.jpg
+Mon, 06 Aug 2018 15:02:13 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:13 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:13 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_45_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:13 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:14 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:14 - DEBUG - Success capture distinct image WIN_20180705_19_57_45_Pro.jpg
+Mon, 06 Aug 2018 15:02:14 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:14 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:14 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:14 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:14 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:14 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 15:02:15 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:15 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro.jpg
+Mon, 06 Aug 2018 15:02:15 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:15 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:15 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:16 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:16 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro.jpg
+Mon, 06 Aug 2018 15:02:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:16 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:16 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:16 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (3).jpg
+Mon, 06 Aug 2018 15:02:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:17 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:17 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro.jpg
+Mon, 06 Aug 2018 15:02:17 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:18 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:18 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:18 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:18 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:18 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (3).jpg
+Mon, 06 Aug 2018 15:02:18 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:19 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro.jpg
+Mon, 06 Aug 2018 15:02:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:19 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:19 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (2).jpg
+Mon, 06 Aug 2018 15:02:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (3).jpg
+Mon, 06 Aug 2018 15:02:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro.jpg
+Mon, 06 Aug 2018 15:02:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:02:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:02:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_51_Pro.jpg
+Mon, 06 Aug 2018 15:02:22 - DEBUG - Success loarding image a9e9a064-9946-11e8-a403-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:23 - DEBUG - Success loarding image a9e9a065-9946-11e8-9f8e-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:24 - DEBUG - Success loarding image a9e9a066-9946-11e8-9f9e-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:25 - DEBUG - Success loarding image a9e9a067-9946-11e8-a56c-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:26 - DEBUG - Success loarding image a9e9a068-9946-11e8-a3bf-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:27 - DEBUG - Success loarding image a9e9a069-9946-11e8-8856-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:29 - DEBUG - Success loarding image a9e9a06a-9946-11e8-9184-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:30 - DEBUG - Success loarding image a9e9a06b-9946-11e8-bc9e-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:31 - DEBUG - Success loarding image a9e9a06c-9946-11e8-8eaf-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:32 - DEBUG - Success loarding image a9e9c668-9946-11e8-ad20-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:33 - DEBUG - Success loarding image a9e9c669-9946-11e8-bbe8-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:34 - DEBUG - Success loarding image a9e9c66a-9946-11e8-aa34-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:35 - DEBUG - Success loarding image a9e9c66b-9946-11e8-9f53-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:36 - DEBUG - Success loarding image a9e9c66c-9946-11e8-9402-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:37 - DEBUG - Success loarding image a9e9c66d-9946-11e8-9aa7-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:38 - DEBUG - Success loarding image a9e9c66e-9946-11e8-aaca-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:40 - DEBUG - Success loarding image a9e9c66f-9946-11e8-b5f5-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:41 - DEBUG - Success loarding image a9e9c670-9946-11e8-8f4f-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:42 - DEBUG - Success loarding image a9e9c671-9946-11e8-9651-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:43 - DEBUG - Success loarding image a9e9c672-9946-11e8-984d-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:44 - DEBUG - Success loarding image a9e9c673-9946-11e8-8d35-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:46 - DEBUG - Success loarding image a9e9c674-9946-11e8-90d7-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:47 - DEBUG - Success loarding image a9e9c675-9946-11e8-b85b-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:49 - DEBUG - Success loarding image a9e9c676-9946-11e8-aa73-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:50 - DEBUG - Success loarding image a9e9c677-9946-11e8-93a9-d826bb9cebb0
+Mon, 06 Aug 2018 15:02:52 - DEBUG - Success loarding image a9e9c678-9946-11e8-9b38-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:19 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_32_Pro.jpg
+Mon, 06 Aug 2018 15:04:19 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:20 - DEBUG - Success capture distinct image WIN_20180705_19_57_35_Pro.jpg
+Mon, 06 Aug 2018 15:04:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:21 - DEBUG - Success capture distinct image WIN_20180705_19_57_36_Pro.jpg
+Mon, 06 Aug 2018 15:04:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:22 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:22 - DEBUG - Success capture distinct image WIN_20180705_19_57_37_Pro.jpg
+Mon, 06 Aug 2018 15:04:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_38_Pro.jpg
+Mon, 06 Aug 2018 15:04:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:23 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:24 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:24 - DEBUG - Success capture distinct image WIN_20180705_19_57_39_Pro.jpg
+Mon, 06 Aug 2018 15:04:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:24 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:24 - DEBUG - Success capture distinct image WIN_20180705_19_57_40_Pro.jpg
+Mon, 06 Aug 2018 15:04:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:25 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_45_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:25 - DEBUG - Success capture distinct image WIN_20180705_19_57_45_Pro.jpg
+Mon, 06 Aug 2018 15:04:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:26 - ERROR - Fail loading fuzzy image WIN_20180705_19_57_46_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:26 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro (3).jpg
+Mon, 06 Aug 2018 15:04:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_46_Pro.jpg
+Mon, 06 Aug 2018 15:04:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:27 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:28 - DEBUG - Success capture distinct image WIN_20180705_19_57_47_Pro.jpg
+Mon, 06 Aug 2018 15:04:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:28 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:29 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro (3).jpg
+Mon, 06 Aug 2018 15:04:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:29 - DEBUG - Success capture distinct image WIN_20180705_19_57_48_Pro.jpg
+Mon, 06 Aug 2018 15:04:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:30 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:30 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro (3).jpg
+Mon, 06 Aug 2018 15:04:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:31 - DEBUG - Success capture distinct image WIN_20180705_19_57_49_Pro.jpg
+Mon, 06 Aug 2018 15:04:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:31 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (2).jpg
+Mon, 06 Aug 2018 15:04:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro (3).jpg
+Mon, 06 Aug 2018 15:04:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:32 - DEBUG - Success capture distinct image WIN_20180705_19_57_50_Pro.jpg
+Mon, 06 Aug 2018 15:04:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:04:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:04:33 - DEBUG - Success capture distinct image WIN_20180705_19_57_51_Pro.jpg
+Mon, 06 Aug 2018 15:04:34 - DEBUG - Success loarding image f87ef85a-9946-11e8-aeb3-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:35 - DEBUG - Success loarding image f87ef85b-9946-11e8-858f-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:36 - DEBUG - Success loarding image f87ef85c-9946-11e8-bc18-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:37 - DEBUG - Success loarding image f87ef85d-9946-11e8-8258-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:38 - DEBUG - Success loarding image f87ef85e-9946-11e8-a4a0-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:39 - DEBUG - Success loarding image f87ef85f-9946-11e8-ad59-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:41 - DEBUG - Success loarding image f87ef860-9946-11e8-a79b-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:43 - DEBUG - Success loarding image f87ef861-9946-11e8-b7e7-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:45 - DEBUG - Success loarding image f87ef862-9946-11e8-a170-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:47 - DEBUG - Success loarding image f87ef863-9946-11e8-a032-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:48 - DEBUG - Success loarding image f87ef864-9946-11e8-9132-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:50 - DEBUG - Success loarding image f87ef865-9946-11e8-8a75-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:51 - DEBUG - Success loarding image f87ef866-9946-11e8-b06a-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:52 - DEBUG - Success loarding image f87ef867-9946-11e8-bb20-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:53 - DEBUG - Success loarding image f87ef868-9946-11e8-b521-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:54 - DEBUG - Success loarding image f87ef869-9946-11e8-8101-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:55 - DEBUG - Success loarding image f87ef86a-9946-11e8-bdd7-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:57 - DEBUG - Success loarding image f87ef86b-9946-11e8-9f59-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:58 - DEBUG - Success loarding image f87ef86c-9946-11e8-b718-d826bb9cebb0
+Mon, 06 Aug 2018 15:04:59 - DEBUG - Success loarding image f87ef86d-9946-11e8-b0f9-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:01 - DEBUG - Success loarding image f87ef86e-9946-11e8-b46f-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:02 - DEBUG - Success loarding image f87ef86f-9946-11e8-ad85-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:03 - DEBUG - Success loarding image f87ef870-9946-11e8-9446-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:04 - DEBUG - Success loarding image f87ef871-9946-11e8-a0e1-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:05 - DEBUG - Success loarding image f87ef872-9946-11e8-bc02-d826bb9cebb0
+Mon, 06 Aug 2018 15:05:06 - DEBUG - Success loarding image f87ef873-9946-11e8-af93-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:20 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_40_Pro.jpg
+Mon, 06 Aug 2018 15:38:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:20 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:20 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_41_Pro.jpg
+Mon, 06 Aug 2018 15:38:20 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:21 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_47_Pro.jpg
+Mon, 06 Aug 2018 15:38:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:21 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:21 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_48_Pro.jpg
+Mon, 06 Aug 2018 15:38:21 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:22 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_49_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:22 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:22 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_49_Pro.jpg
+Mon, 06 Aug 2018 15:38:22 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:23 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_50_Pro.jpg
+Mon, 06 Aug 2018 15:38:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:23 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:23 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_51_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:23 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:24 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:24 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_51_Pro.jpg
+Mon, 06 Aug 2018 15:38:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:24 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:24 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_52_Pro.jpg
+Mon, 06 Aug 2018 15:38:24 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:25 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_54_Pro.jpg
+Mon, 06 Aug 2018 15:38:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:25 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:25 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_55_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:25 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:26 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:26 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_55_Pro.jpg
+Mon, 06 Aug 2018 15:38:26 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:27 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_56_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:27 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:27 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_56_Pro.jpg
+Mon, 06 Aug 2018 15:38:27 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:28 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_57_Pro.jpg
+Mon, 06 Aug 2018 15:38:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:28 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:28 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_58_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:28 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:29 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_58_Pro.jpg
+Mon, 06 Aug 2018 15:38:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:29 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:29 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_59_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:29 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:30 - ERROR - Fail loading fuzzy image WIN_20180806_15_32_59_Pro.jpg
+Mon, 06 Aug 2018 15:38:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:30 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:30 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_01_Pro.jpg
+Mon, 06 Aug 2018 15:38:30 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:31 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_02_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:31 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:31 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_02_Pro.jpg
+Mon, 06 Aug 2018 15:38:31 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:32 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_03_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:32 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:32 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_03_Pro.jpg
+Mon, 06 Aug 2018 15:38:32 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:33 - ERROR - Fail loading fuzzy image WIN_20180806_15_33_05_Pro.jpg
+Mon, 06 Aug 2018 15:38:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:33 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:33 - DEBUG - Success capture distinct image WIN_20180806_15_33_11_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:33 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:35 - DEBUG - Success capture distinct image WIN_20180806_15_33_11_Pro (3).jpg
+Mon, 06 Aug 2018 15:38:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:35 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:35 - DEBUG - Success capture distinct image WIN_20180806_15_33_11_Pro.jpg
+Mon, 06 Aug 2018 15:38:35 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:36 - DEBUG - Success capture distinct image WIN_20180806_15_33_12_Pro.jpg
+Mon, 06 Aug 2018 15:38:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:36 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:36 - DEBUG - Success capture distinct image WIN_20180806_15_33_13_Pro (2).jpg
+Mon, 06 Aug 2018 15:38:36 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:37 - DEBUG - Success capture distinct image WIN_20180806_15_33_13_Pro.jpg
+Mon, 06 Aug 2018 15:38:37 - INFO - Starting new HTTPS connection (1): api.ai.qq.com
+Mon, 06 Aug 2018 15:38:37 - DEBUG - "POST /fcgi-bin/image/image_fuzzy HTTP/1.1" 200 None
+Mon, 06 Aug 2018 15:38:37 - DEBUG - Success capture distinct image WIN_20180806_15_33_14_Pro.jpg
+Mon, 06 Aug 2018 15:38:38 - DEBUG - Success loarding image bb2d213a-994b-11e8-9795-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:40 - DEBUG - Success loarding image bb2d213b-994b-11e8-90bb-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:41 - DEBUG - Success loarding image bb2d213c-994b-11e8-b91b-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:42 - DEBUG - Success loarding image bb2d213d-994b-11e8-bc64-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:43 - DEBUG - Success loarding image bb2d213e-994b-11e8-8fdf-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:44 - DEBUG - Success loarding image bb2d213f-994b-11e8-81d4-d826bb9cebb0
+Mon, 06 Aug 2018 15:38:45 - DEBUG - Success loarding image bb2d2140-994b-11e8-8942-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:12 - DEBUG - Success loarding image 81d384c6-994c-11e8-9f39-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:13 - DEBUG - Success loarding image 81d384c7-994c-11e8-bc1c-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:14 - DEBUG - Success loarding image 81d384c8-994c-11e8-ab95-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:17 - DEBUG - Success loarding image 81d384c9-994c-11e8-8d68-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:18 - DEBUG - Success loarding image 81d384ca-994c-11e8-ba05-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:19 - DEBUG - Success loarding image 81d384cb-994c-11e8-8a29-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:20 - DEBUG - Success loarding image 81d384cc-994c-11e8-b457-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:21 - DEBUG - Success loarding image 81d384cd-994c-11e8-8385-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:23 - DEBUG - Success loarding image 81d384ce-994c-11e8-a995-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:25 - DEBUG - Success loarding image 81d384cf-994c-11e8-94d1-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:26 - DEBUG - Success loarding image 81d384d0-994c-11e8-9a2d-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:28 - DEBUG - Success loarding image 81d384d1-994c-11e8-832e-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:31 - DEBUG - Success loarding image 81d384d2-994c-11e8-bd35-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:32 - DEBUG - Success loarding image 81d384d3-994c-11e8-ad56-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:34 - DEBUG - Success loarding image 81d384d4-994c-11e8-be29-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:35 - DEBUG - Success loarding image 81d3ab94-994c-11e8-a057-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:36 - DEBUG - Success loarding image 81d3ab95-994c-11e8-a9c2-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:37 - DEBUG - Success loarding image 81d3ab96-994c-11e8-b5c1-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:39 - DEBUG - Success loarding image 81d3ab97-994c-11e8-806d-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:40 - DEBUG - Success loarding image 81d3ab98-994c-11e8-9b4b-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:42 - DEBUG - Success loarding image 81d3ab99-994c-11e8-ab50-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:43 - DEBUG - Success loarding image 81d3ab9a-994c-11e8-aad4-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:44 - DEBUG - Success loarding image 81d3ab9b-994c-11e8-adba-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:47 - DEBUG - Success loarding image 81d3ab9c-994c-11e8-bc2a-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:49 - DEBUG - Success loarding image 81d3ab9d-994c-11e8-87ba-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:50 - DEBUG - Success loarding image 81d3ab9e-994c-11e8-9005-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:51 - DEBUG - Success loarding image 81d3ab9f-994c-11e8-b290-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:52 - DEBUG - Success loarding image 81d3aba0-994c-11e8-b996-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:53 - DEBUG - Success loarding image 81d3aba1-994c-11e8-9628-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:54 - DEBUG - Success loarding image 81d3aba2-994c-11e8-8039-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:55 - DEBUG - Success loarding image 81d3aba3-994c-11e8-a3f5-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:56 - DEBUG - Success loarding image 81d3aba4-994c-11e8-8c95-d826bb9cebb0
+Mon, 06 Aug 2018 15:44:58 - DEBUG - Success loarding image 81d3aba5-994c-11e8-afd6-d826bb9cebb0
+Tue, 07 Aug 2018 16:26:53 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 20:45:00 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 20:45:01 - DEBUG - $HOME=/home/chen
+Tue, 07 Aug 2018 20:45:01 - DEBUG - matplotlib data path /usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data
+Tue, 07 Aug 2018 20:45:01 - DEBUG - loaded rc file /usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/matplotlibrc
+Tue, 07 Aug 2018 20:45:01 - DEBUG - matplotlib version 2.2.2
+Tue, 07 Aug 2018 20:45:01 - DEBUG - interactive is False
+Tue, 07 Aug 2018 20:45:01 - DEBUG - platform is linux
+Tue, 07 Aug 2018 20:45:01 - DEBUG - loaded modules: ['numpy.polynomial.laguerre', 'http.client', 'requests.packages.urllib3.contrib', 'scipy._lib.six', 'tensorflow.python.saved_model.signature_def_utils', 'numpy.polynomial.hermite', 'tensorflow.core.protobuf.saved_model_pb2', 'scipy.stats._multivariate', 'cv2.cuda', 'unicodedata', 'tensorflow.image', 'google.protobuf.descriptor_pool', 'reprlib', 'tensorflow.keras.wrappers', 'tensorflow.python.client', 'tensorflow.python.training.evaluation', 'tensorflow.python.ops.gen_linalg_ops', 'sklearn.utils.sparsefuncs', 'scipy.ndimage._ni_label', 'scipy.special.basic', '_bootlocale', '_compression', 'cv2.flann', 'random', '_datetime', 'tensorflow.python.ops.gen_sdca_ops', 'matplotlib.compat.subprocess', 'scipy.integrate.quadrature', 'scipy.stats.mstats', 'sklearn.utils.class_weight', 'bz2', 'h5py.h5r', 'inspect', 'tensorflow.python.keras.layers.advanced_activations', 'h5py._hl.attrs', 'google.protobuf.descriptor_database', 'tensorflow.python.saved_model.constants', 'pkg_resources.extern.packaging', 'tensorflow.graph_util', 'sklearn.preprocessing.imputation', 'numpy.lib.utils', 'io', 'tensorflow.python.estimator.canned.parsing_utils', 'yaml', 'scipy.sparse.linalg', 'numpy.core.fromnumeric', 'tensorflow.python.keras', 'scipy.optimize.slsqp', 'scipy.integrate._dop', 'scipy.sparse.csgraph._min_spanning_tree', 'tensorflow.keras.applications.mobilenet', 'tensorflow.python.training.checkpoint_utils', 'tensorflow.saved_model.utils', 'scipy.optimize._trustregion_ncg', 'dis', 'multiprocessing.pool', 'tensorflow.python.platform.build_info', 'scipy.integrate._ivp.base', 'tensorflow.core.framework.tensor_description_pb2', 'tensorflow.python.training.sync_replicas_optimizer', 'tensorflow.python.ops.gen_checkpoint_ops', 'h5py._hl.filters', 'requests.adapters', 'tensorflow.python.training.coordinator', 'tensorflow.python.framework.op_def_registry', 'google.protobuf.message', 'h5py._hl.files', 'tensorflow.python.ops.gen_boosted_trees_ops', 'h5py.h5f', 'tensorflow.python.keras.applications.inception_v3', 'tensorflow.python.framework.graph_to_function_def', 'scipy.linalg._decomp_ldl', 'tensorflow.python.layers.core', 'email.header', 'fnmatch', 'tensorflow.core.framework.device_attributes_pb2', 'xml.parsers.expat.model', 'numpy.matrixlib', 'iris_log', 'h5py._hl.selections2', 'tensorflow.python.client.client_lib', 'tensorflow.sysconfig', 'tensorflow.layers', 'tensorflow.saved_model.constants', 'scipy.special.specfun', 'tensorflow.python.util.serialization', 'scipy.sparse.linalg.eigen', 'tensorflow.distributions', 'tensorflow.python.ops.linalg.linear_operator_diag', 'h5py.h5p', 'numpy.core.defchararray', 'h5py._proxy', 'xml', 'tensorflow.python.pywrap_tensorflow', 'selectors', 'h5py._hl.base', 'tensorflow.python.ops.weights_broadcast_ops', 'email._policybase', 'tensorflow.python.util.tf_export', 'binascii', 'sklearn.externals.joblib.logger', 'tensorflow.python.training.checkpointable.base', 'email.utils', 'zipfile', 'cv2.line_descriptor', 'tensorflow.python.ops.distributions.kullback_leibler', 'tensorflow.python.ops.gen_array_ops', 'h5py.h5g', 'pkg_resources._vendor.six.moves', 'pkg_resources.extern.packaging.version', 'tensorflow.python.ops.losses.util', 'tensorflow.core.framework.tensor_shape_pb2', 'sklearn.utils.lgamma', 'tensorflow.python.ops.linalg.linear_operator_low_rank_update', 'tensorflow.core.profiler.tfprof_log_pb2', 'tensorflow.python.layers.layers', 'xml.dom.domreg', 'xml.dom.minicompat', 'scipy.ndimage._ni_docstrings', 'scipy.optimize._trustregion_krylov', 'scipy.integrate._ivp.ivp', 'tensorflow.python.layers.normalization', 'tensorflow.core.protobuf.tensorflow_server_pb2', '_posixsubprocess', 'tensorflow.python.training.checkpointable', 'tensorflow.python.client.device_lib', 'requests.cookies', 'tensorflow.core.framework.graph_pb2', 'numpy.core.function_base', '_thread', 'tensorflow.keras.utils', 'scipy.misc', 'scipy.optimize._group_columns', 'tensorflow.python.feature_column.feature_column_lib', 'tensorflow.python.training.adam', 'tensorflow.python.estimator.canned.optimizers', 'sklearn.metrics.cluster.unsupervised', 'tensorflow.python.ops.nn_impl', 'tensorflow.python.ops.distributions.special_math', 'termios', 'cv2.multicalib', 'urllib.response', 'tensorflow.python.estimator.canned.baseline', 'tensorflow.python.keras.utils.vis_utils', 'tensorflow.python.ops.clip_ops', 'tensorflow.python.eager.core', 'tensorflow.python.ops.image_ops', 'tensorflow.python.ops.distributions.laplace', 'numpy.testing.nose_tools.decorators', 'tensorflow.python.training.checkpoint_state_pb2', 'tensorflow.core', '_sysconfigdata_m', 'tensorflow.bitwise', 'scipy.sparse.csgraph._reordering', 'tensorflow.python.keras.datasets.cifar10', 'sklearn.externals', 'scipy.optimize._lsq.bvls', 'tensorflow.train.queue_runner', 'pytz.lazy', 'absl', 'absl.flags', 'numpy.testing', 'tensorflow.python.ops.io_ops', 'tensorflow.python.ops.linalg_grad', 'chardet', 'tensorflow.python.keras.layers.cudnn_recurrent', 'multiprocessing.util', 'cython_runtime', 'plistlib', 'tensorflow.keras.regularizers', 'tensorflow.python.keras.datasets.boston_housing', 'h5py.h5o', 'matplotlib._version', 'scipy.linalg._procrustes', 'tensorflow.python.keras.backend', 'tensorflow.python.ops.check_ops', 'tensorflow.python.framework.ops', 'tensorflow.python.ops.sets_impl', 'tensorflow.keras.applications.nasnet', 'tensorflow.core.lib', 'posix', 'scipy.sparse.csr', 'tensorflow.python.platform.app', 'scipy.linalg._solvers', 'numpy.random.info', 'scipy.sparse.linalg.isolve._gcrotmk', 'scipy.sparse.csgraph._laplacian', 'tensorflow.python.framework.device', 'scipy.sparse.linalg._expm_multiply', 'requests.packages.urllib3.util.connection', 'scipy.interpolate.interpolate', 'tensorflow.core.util.test_log_pb2', 'multiprocessing.synchronize', 'tensorflow.keras.datasets.cifar10', 'numpy.random', 'scipy.sparse.dia', 'h5py.h5z', 'sklearn.externals.joblib.my_exceptions', 'tensorflow.python.keras.engine.input_layer', 'h5py._conv', 'tensorflow.python.estimator.inputs.numpy_io', '_sysconfigdata', 'tensorflow.python.training.checkpointable.data_structures_base', 'google.protobuf.internal.well_known_types', 'scipy.interpolate.fitpack2', '_random', 'six', 'scipy.integrate._ivp.radau', 'numpy.add_newdocs', 'tensorflow.keras.datasets', 'tensorflow.python.util.protobuf', 'pkg_resources.extern.packaging._structures', 'requests.auth', 'tensorflow.python.keras.applications.vgg16', 'operator', 'select', 'tensorflow.keras.wrappers.scikit_learn', 'tensorflow.python.ops.session_ops', 'tensorflow.python.estimator.inputs', 'scipy.optimize._differentiable_functions', 'scipy.optimize.optimize', 'email.parser', 'numpy.lib.shape_base', 'sklearn.preprocessing._function_transformer', 'sklearn.utils', 'absl.flags._validators', 'scipy.sparse.linalg.isolve.lsmr', 'tensorflow.python.ops.gen_script_ops', 'scipy.linalg.lapack', 'yaml.events', 'numpy.core.shape_base', 'google.protobuf.internal._api_implementation', 'tensorflow.python.training.moving_averages', 'tensorflow.core.framework', 'tensorflow.core.protobuf.control_flow_pb2', 'requests.packages.urllib3.packages.ssl_match_hostname', 'tensorflow.python.keras.layers.recurrent', 'tensorflow.python.estimator.canned.boosted_trees', 'tensorflow.python.training.queue_runner', 'scipy.optimize._lsq', 'tensorflow.python.ops.gen_math_ops', 'sklearn.__check_build', 'cv2.omnidir', 'uu', 'numpy.lib.nanfunctions', 'tensorflow.keras', 'scipy.special._comb', 'scipy.optimize.nnls', 'requests.packages.urllib3.request', 'tensorflow.python.keras.models', 'requests.packages.urllib3.util.url', 'cv2.ft', 'tensorflow.python.summary.writer.writer', 'dateutil', 'scipy.ndimage._nd_image', 'tensorflow.python.keras.engine.sequential', 'urllib3._collections', 'tensorflow.keras.losses', 'scipy.optimize._trustregion_constr.tr_interior_point', 'sklearn.metrics.scorer', 'tensorflow.python.ops.gen_ctc_ops', 'matplotlib.cbook.deprecation', 'tensorflow.keras.applications.vgg19', 'numpy.testing.utils', 'scipy.interpolate.polyint', 'tensorflow.python.ops.confusion_matrix', 'tensorflow.python.training.training_ops', 'scipy.special._ellip_harm', 'scipy.linalg._sketches', 'tensorflow.python.training.learning_rate_decay', 'h5py.h5ac', 'scipy.linalg._expm_frechet', 'tensorflow.core.profiler.tfprof_options_pb2', 'tensorflow.python.ops.linalg.linear_operator_util', 'base64', 'numpy.matlib', 'pkg_resources.extern.packaging._compat', 'sysconfig', 'requests.exceptions', 'tensorflow.python.ops.custom_gradient', 'scipy.optimize._trustregion_constr.canonical_constraint', 'google.protobuf.text_format', 'html', 'tensorflow.core.framework.resource_handle_pb2', '_csv', 'six.moves.urllib.request', 'requests.packages.urllib3.poolmanager', 'scipy.optimize._trustregion_exact', 'requests.packages.urllib3', 'warnings', 'tensorflow.python.estimator.inputs.queues.feeding_queue_runner', 'scipy.ndimage.io', 'scipy.interpolate.interpnd', 'scipy.sparse.linalg._onenormest', 'tensorflow.python.data.ops', 'scipy.special.spfun_stats', 'scipy.sparse.csgraph', 'tensorflow.python.data.util.nest', 'tensorflow.core.framework.cost_graph_pb2', 're', 'cv2.ipp', 'cv2.motempl', 'tensorflow.python.ops.gen_nn_ops', 'tensorflow.python.keras.initializers', 'tensorflow.keras.optimizers', 'scipy.sparse.linalg.isolve.utils', 'tensorflow.python.estimator.run_config', 'tensorflow.python.util.nest', 'tensorflow.python.ops.distributions.categorical', 'scipy.optimize._remove_redundancy', 'tensorflow.python.training.warm_starting_util', 'PIL.Image', 'yaml.error', 'tensorflow.python.keras.engine.training_arrays', 'encodings.utf_8', 'multiprocessing', 'tensorflow.keras.applications.xception', 'tensorflow.python.ops', 'numpy.compat', 'numpy._globals', 'tensorflow.python.ops.gen_functional_ops', 'tensorflow.core.profiler.tfprof_output_pb2', 'tensorflow.feature_column', 'scipy.optimize.cobyla', 'pkg_resources.extern.pyparsing', 'tensorflow.python.keras.engine.training', 'urllib3.util.url', 'pkg_resources.extern.packaging.requirements', 'numpy.core.multiarray', 'http', 'tensorflow.python.training.ftrl', 'yaml.representer', 'scipy.stats.kde', 'tensorflow.python.keras.datasets.imdb', 'sklearn.metrics.base', 'tensorflow.python.keras.layers.serialization', 'tensorflow.python.platform', 'tensorflow.python.training.training', 'tensorflow.user_ops', 'calendar', 'cgi', 'scipy.interpolate._ppoly', '_signal', 'tensorflow.python.ops.gen_lookup_ops', 'scipy.spatial._voronoi', 'scipy.optimize._lsq.trf', 'absl.flags._flagvalues', 'absl.flags._flag', 'scipy.spatial._procrustes', 'os', 'tensorflow.python.keras.layers.core', 'collections', 'scipy.sparse.linalg.isolve.iterative', 'PIL.ImageMode', 'tensorflow.python.ops.ctc_ops', 'yaml.constructor', 'matplotlib', 'tensorflow.python.summary.writer', 'tensorflow.python.ops.standard_ops', 'sklearn.externals.six.moves.urllib_robotparser', 'numpy.lib.type_check', 'scipy.linalg._decomp_polar', 'tensorflow.python.pywrap_tensorflow_internal', 'sklearn.utils.fixes', 'scipy.linalg._decomp_update', 'scipy.optimize._zeros', 'scipy.optimize.minpack2', 'scipy.stats._discrete_distns', 'tensorflow.keras.datasets.mnist', 'tensorflow.keras.applications.vgg16', 'tensorflow.python.saved_model.signature_constants', 'scipy.sparse.linalg.interface', '_sitebuiltins', 'traceback', 'scipy.optimize._trustregion_constr.report', 'scipy.special._spherical_bessel', 'sklearn.metrics.pairwise_fast', 'tensorflow.python.ops.parsing_ops', 'cv2.xfeatures2d', 'sklearn.externals.six.moves.urllib', 'tensorflow.python.ops.distributions', 'unittest.runner', 'tensorflow.keras.applications.densenet', 'tensorflow.python.util.all_util', 'h5py.h5i', 'tensorflow.spectral', 'cv2.ml', 'scipy.spatial._plotutils', 'scipy.optimize._trustregion', 'tensorflow.keras.datasets.cifar100', 'google.protobuf.internal.wire_format', 'urllib.parse', 'urllib3.util.retry', 'email.message', 'numpy.lib.format', 'tensorflow.python.keras.applications.imagenet_utils', 'numpy.lib.scimath', 'scipy.optimize._lbfgsb', 'sklearn.utils.deprecation', 'numpy.core.einsumfunc', 'tensorflow.python.ops.linalg.linear_operator_circulant', 'sklearn.metrics.pairwise', 'tensorflow.python.layers', 'tensorflow.python.ops.random_ops', 'sklearn.utils.metaestimators', 'tensorflow.python.keras.datasets.cifar', 'tensorflow.saved_model.builder', 'numpy.testing.nose_tools.utils', 'tensorflow.python.ops.metrics', '_lzma', 'ssl', 'sklearn.base', 'tensorflow.data', 'sklearn.utils.validation', 'tensorflow.python.ops.losses.losses', 'tensorflow.python.data.util.random_seed', 'tensorflow.python.ops.tensor_array_grad', 'mmap', 'tensorflow.python.eager', 'google.protobuf.text_encoding', 'csv', 'tensorflow.core.framework.api_def_pb2', 'tensorflow.python.framework.graph_io', 'sklearn.model_selection._validation', 'time', 'tensorflow.python.keras.utils.generic_utils', 'cv2.hfs', 'tensorflow.python.ops.gen_control_flow_ops', 'numpy.core.arrayprint', 'tensorflow.python.keras.utils', 'sklearn.externals.joblib._memory_helpers', 'scipy.interpolate._bsplines', 'tensorflow.python.keras.applications.densenet', 'sklearn.externals.joblib', 'requests.structures', 'tensorflow.python', 'urllib3.util.ssl_', 'tensorflow.python.ops.numerics', 'tensorflow.python.ops.losses.losses_impl', 'urllib3.exceptions', 'google.protobuf.pyext', 'pkg_resources.extern', 'http.cookiejar', 'tensorflow.python.keras.layers.noise', 'tensorflow.python.platform.tf_logging', 'tensorflow.python.ops.distributions.bernoulli', 'sklearn.externals.six.moves.urllib.error', 'importlib._bootstrap_external', 'scipy.optimize.tnc', 'tensorflow.core.framework.attr_value_pb2', 'scipy.stats._constants', 'quopri', 'scipy.optimize._lsq.givens_elimination', 'scipy.linalg.blas', 'pathlib', 'tensorflow.core.example.feature_pb2', 'imp', 'json.encoder', 'sklearn.externals.joblib.numpy_pickle_utils', 'tensorflow.python.util.deprecation', 'cv2.linemod', 'scipy.optimize._lsq.dogbox', 'sklearn.externals.six.moves.urllib_parse', '__main__', 'tensorflow.python.keras.utils.multi_gpu_utils', 'tensorflow.core.framework.node_def_pb2', 'locale', 'matplotlib.rcsetup', 'tensorflow.python.keras.applications.vgg19', '_socket', 'scipy.optimize.lbfgsb', 'scipy.spatial', 'itertools', 'tempfile', 'scipy.interpolate.rbf', 'tensorflow.python.saved_model.loader_impl', 'sklearn.utils.murmurhash', 'scipy.spatial._spherical_voronoi', 'numpy.lib', 'pkg_resources.extern.packaging.markers', 'tensorflow.python.lib.io.python_io', 'h5py.h5ds', 'tensorflow.python.keras.preprocessing.image', 'numpy.lib._version', 'os.path', 'h5py.h5l', 'matplotlib._color_data', 'tensorflow.python.keras.engine.training_utils', 'google.protobuf.descriptor_pb2', 'tensorflow.python.keras.applications.resnet50', 'numpy.linalg', 'tensorflow.python.keras.engine.saving', 'scipy.integrate._ivp', 'sklearn.externals.joblib.pool', 'tensorflow.python.saved_model.signature_def_utils_impl', 'sklearn.externals.joblib.memory', 'sklearn.__check_build._check_build', 'urllib3', 'numpy.core', 'tensorflow.python.ops.gen_set_ops', 'tensorflow.core.profiler', 'scipy.optimize._spectral', 'tensorflow.python.ops.cudnn_rnn_grad', 'tensorflow.keras.backend', 'tensorflow.python.framework.framework_lib', 'scipy.interpolate._cubic', 'gettext', 'functools', 'scipy.spatial.kdtree', 'scipy.linalg.decomp', 'scipy.optimize._trustregion_constr.minimize_trustregion_constr', 'scipy.linalg._matfuncs_sqrtm', 'tensorflow.core.util', 'posixpath', 'google.protobuf', 'tensorflow.python.ops.gradients', 'tensorflow.compat', 'multiprocessing.context', 'tensorflow.python.training.training_util', 'encodings', '_io', '_weakref', 'tensorflow.keras.estimator', 'shutil', 'numpy.ma.extras', 'tensorflow.python.data.util.sparse', 'google.protobuf.reflection', 'tensorflow.python.profiler.internal', 'scipy.spatial.distance', 'sre_constants', 'scipy.stats.contingency', 'scipy.optimize._minpack', 'tensorflow.python.profiler', 'tensorflow.python.summary.writer.writer_cache', 'sklearn.metrics.cluster.bicluster', 'tensorflow.python.framework.load_library', 'tensorflow.python.layers.convolutional', 'scipy.sparse.csgraph._tools', 'sklearn.metrics', 'tensorflow.python.ops.resources', 'tensorflow.core.framework.tensor_pb2', 'tensorflow.python.framework.test_util', 'sklearn.utils.linear_assignment_', 'scipy.stats.mstats_basic', 'tensorflow.python.framework.sparse_tensor', 'cv2.bgsegm', 'grp', 'tensorflow.python.ops.losses', 'textwrap', 'tensorflow.python.ops.special_math_ops', 'scipy.sparse._sparsetools', 'tensorflow.python.ops.gen_spectral_ops', 'tensorflow.python.summary.text_summary', 'scipy.ndimage.interpolation', 'numpy.linalg.linalg', 'distutils', 'tensorflow.python.training.optimizer', 'tensorflow.python.ops.summary_ops_v2', 'unittest.suite', 'tarfile', 'tensorflow.python.keras.applications.inception_resnet_v2', 'cv2.plot', 'errno', 'scipy.optimize._hessian_update_strategy', 'tensorflow.python.keras.activations', 'cv2.saliency', 'marshal', 'sklearn.externals.six.moves.urllib_response', 'tensorflow.python.estimator.util', 'numpy.lib.mixins', 'tensorflow.python.ops.spectral_grad', 'tensorflow.keras.initializers', 'tensorflow.python.ops.linalg.linear_operator_block_diag', 'tensorflow.python.framework.smart_cond', 'tensorflow.core.protobuf.meta_graph_pb2', 'unittest.mock', 'tensorflow.python.keras.utils.np_utils', 'tensorflow.manip', 'scipy.version', 'scipy.linalg.decomp_svd', 'iris_input', 'absl.flags._exceptions', 'tensorflow.keras.activations', 'iris_model', 'tensorflow.python.keras.layers.normalization', 'email.feedparser', 'tensorflow.python.summary.writer.event_file_writer', 'tensorflow.python.lib', 'urllib3.request', 'google.protobuf.internal.type_checkers', 'numpy.core.records', 'tensorflow.python.framework.random_seed', 'numpy.lib.arraysetops', 'sklearn.externals.six.moves.urllib_request', 'tensorflow.python.ops.data_flow_grad', 'encodings.aliases', 'yaml.scanner', 'tensorflow.python.util.decorator_utils', 'numpy.core.getlimits', 'cv2.reg', 'matplotlib.testing', 'tensorflow.python.saved_model.utils_impl', 'scipy.sparse.base', 'scipy._lib._ccallback', 'numpy.lib.function_base', 'tensorflow.python.layers.pooling', 'tensorflow.gfile', 'email.iterators', 'sklearn.externals.joblib.parallel', 'tensorflow.logging', 'numpy.core.memmap', 'scipy.sparse.csgraph._validation', 'absl.flags._helpers', 'tensorflow.python.layers.base', 'scipy.special._ufuncs_cxx', 'tensorflow.python.keras.layers.convolutional_recurrent', 'numpy._import_tools', 'matplotlib.compat', 'h5py.h5fd', 'h5py._hl', 'urllib3.packages.ssl_match_hostname', 'numpy.compat.py3k', 'h5py._hl.datatype', 'threading', 'sklearn.metrics.ranking', 'numpy.lib.ufunclike', 'scipy.linalg.decomp_lu', '_collections', 'math', 'tensorflow.sparse', 'h5py', 'scipy.ndimage._ni_support', 'sklearn.utils._logistic_sigmoid', 'tensorflow.python.ops.distributions.gamma', 'tensorflow.python.data.util', 'yaml.tokens', 'scipy.__config__', 'tensorflow.python.ops.linalg.linalg_impl', 'pkg_resources._vendor.packaging.__about__', 'google.protobuf.pyext.cpp_message', 'importlib.machinery', 'tensorflow.python.training.queue_runner_impl', 'absl.flags._argument_parser', 'tensorflow.python.ops.linalg_ops', 'PIL._imaging', 'scipy.optimize._differentialevolution', 'requests.packages.urllib3.util', 'scipy.integrate._ivp.lsoda', 'scipy.optimize._constraints', 'gc', 'scipy.integrate._quadpack', 'scipy.linalg._fblas', 'tensorflow.keras.datasets.reuters', 'h5py._errors', 'unittest.case', 'sklearn.metrics.cluster.supervised', 'tensorflow.math', 'tensorflow.python.ops.distributions.exponential', 'scipy.optimize._trlib', 'email.charset', 'scipy._lib.decorator', 'requests.certs', 'scipy.sparse.linalg.eigen.lobpcg.lobpcg', 'matplotlib.fontconfig_pattern', 'scipy.interpolate._bspl', 'tensorflow.python.estimator.estimator_lib', 'scipy.sparse.linalg.eigen.arpack', 'tensorflow.core.framework.op_def_pb2', 'tensorflow.saved_model.signature_def_utils', 'scipy.optimize._slsqp', 'scipy.special.orthogonal', 'google.protobuf.descriptor', 'requests.packages', 'ctypes._endian', '_ni_label', 'tensorflow.python.saved_model.utils', 'apport_python_hook', 'cv2.data', 'cv2.text', 'scipy.optimize.linesearch', 'tensorflow.python.training.gradient_descent', 'tensorflow.python.profiler.internal.flops_registry', 'cv2.optflow', 'json.scanner', 'PIL', 'tensorflow.python.keras.engine.training_eager', 'PIL._util', '_cython_0_28_2', 'cv2.fisheye', 'tensorflow.python.eager.execute', 'tensorflow.python.saved_model.saved_model', 'tensorflow.python.util.tf_decorator', 'tensorflow.python.training.momentum', 'tensorflow.python.framework.errors', 'sklearn.exceptions', 'sklearn.externals.joblib.func_inspect', 'requests.api', 'tensorflow.keras.datasets.imdb', 'tensorflow.core.example', 'sklearn.externals.joblib.format_stack', 'pyexpat', 'scipy.sparse.csc', 'tensorflow.keras.preprocessing.image', 'numpy.matrixlib.defmatrix', 'tensorflow.python.keras.utils.conv_utils', 'tensorflow.python.keras.utils.tf_utils', '_stat', 'PIL.ImageStat', 'tensorflow.python.ops.image_grad', 'scipy.integrate._odepack', 'sklearn.externals.joblib._multiprocessing_helpers', 'tensorflow.python.framework.graph_util_impl', 'scipy.interpolate.ndgriddata', 'scipy.interpolate._fitpack', 'yaml.nodes', 'cv2.bioinspired', 'scipy.optimize._lsq.lsq_linear', 'tensorflow.python.util.lazy_loader', 'scipy.sparse.linalg.isolve._iterative', 'tensorflow.python.client.timeline', 'tensorflow.python.eager.context', 'tensorflow.python.summary', 'scipy._lib._util', 'subprocess', 'scipy.interpolate.dfitpack', 'requests.packages.urllib3.connectionpool', '_codecs', 'tensorflow.python.estimator.canned.linear', 'scipy.misc.pilutil', 'tensorflow.python.util.tf_contextlib', 'cv2.ximgproc.segmentation', 'tensorflow.saved_model.loader', 'tensorflow.python.keras.constraints', 'numpy.testing.nose_tools', 'tensorflow.python.ops.linalg', 'array', 'requests.models', 'gzip', 'cv2.videostab', 'urllib3.response', 'xml.dom', 'scipy._lib._numpy_compat', 'scipy.misc.common', 'absl.flags._defines', 'tensorflow.python.estimator.export.export_output', 'numpy.lib.arraypad', 'tensorflow', 'yaml.serializer', '_ast', 'scipy.special._ellip_harm_2', 'tensorflow.python.ops.histogram_ops', 'tensorflow.python.profiler.profiler', 'tensorflow.keras.applications.resnet50', 'tensorflow.python.ops.distributions.dirichlet_multinomial', 'tensorflow.test', 'scipy.linalg.flinalg', 'tensorflow.python.ops.lookup_ops', 'tensorflow.python.ops.variable_scope', 'sklearn.metrics.regression', 'h5py.utils', 'tensorflow.python.util.compat_internal', 'pkg_resources.extern.appdirs', 'tensorflow.python.keras.preprocessing', 'scipy.linalg.cython_lapack', 'tensorflow.python.profiler.option_builder', 'tensorflow.keras.preprocessing.text', 'tensorflow.python.platform.gfile', 'google.protobuf.internal.decoder', 'stat', 'tensorflow.python.ops.linalg.linear_operator', 'json', 'tensorflow.python.ops.gen_summary_ops', 'scipy.sparse.linalg.eigen.arpack.arpack', 'tensorflow.python.ops.array_ops', 'tensorflow.python.training.summary_io', 'zlib', 'tensorflow.python.eager.backprop', 'tensorflow.python.platform.sysconfig', 'tensorflow.python.keras.layers.wrappers', 'scipy.sparse.linalg.eigen.arpack._arpack', 'tensorflow.python.keras.datasets', 'tensorflow.python.framework.common_shapes', 'tensorflow.python.data.util.convert', 'tensorflow.saved_model.signature_constants', 'tensorflow.python.ops.init_ops', 'tensorflow.core.framework.function_pb2', 'requests.packages.urllib3.response', 'scipy.linalg.misc', 'xml.parsers.expat.errors', 'pkg_resources.extern.six.moves', 'tensorflow.python.training.device_util', 'distutils.sysconfig', 'tensorflow.python.lib.io.tf_record', 'tensorflow.core.example.example_pb2', '_opcode', 'scipy.spatial._hausdorff', 'sklearn.preprocessing', 'linecache', 'requests.packages.urllib3._collections', 'tensorflow.python.training.rmsprop', 'email.errors', '_multiprocessing', 'tensorflow.python.client.session', 'h5py.version', 'scipy.optimize.minpack', 'tensorflow.python.ops.distributions.beta', 'atexit', 'tensorflow.python.ops.embedding_ops', 'tensorflow.python.ops.gradients_impl', 'sre_parse', 'matplotlib.cbook', 'tensorflow.python.util', 'unittest.result', 'matplotlib.colors', 'tensorflow.python.ops.distributions.normal', 'requests.utils', 'pwd', 'numpy.polynomial._polybase', 'tensorflow.python.ops.partitioned_variables', 'h5py.defs', 'tensorflow.python.keras.preprocessing.text', 'tensorflow.nn.rnn_cell', 'tensorflow.python.keras.applications.mobilenet', 'tensorflow.linalg', 'platform', 'tensorflow.python.eager.function', 'tensorflow.python.estimator.canned.metric_keys', 'encodings.latin_1', 'tensorflow.python.framework.fast_tensor_util', 'numpy.lib.npyio', 'requests.status_codes', 'enum', 'PIL.ImageEnhance', 'email.base64mime', 'scipy.optimize.nonlin', 'tensorflow.python.platform.resource_loader', 'tensorflow.core.protobuf', 'tensorflow.keras.applications', 'email._parseaddr', 'scipy.interpolate._pade', 'tensorflow.keras.preprocessing.sequence', 'scipy.integrate._ode', 'distutils.version', 'getopt', 'tensorflow.python.util.is_in_graph_mode', 'tensorflow.python.ops.linalg.linear_operator_composition', 'scipy.optimize._root', 'tensorflow.python.framework.importer', 'scipy.stats._stats', 'tensorflow.python.training', '_bz2', 'tensorflow.python.ops.initializers_ns', 'google.protobuf.message_factory', 'numpy.lib.info', 'cv2.aruco', 'numpy.polynomial.legendre', 'requests.packages.urllib3.util.ssl_', 'scipy.sparse.linalg.dsolve._add_newdocs', 'tensorflow.python.estimator.canned.head', 'scipy.optimize._hungarian', 'scipy.sparse.compressed', 'scipy.sparse._csparsetools', 'numpy.core.numerictypes', 'urllib.error', 'numpy.core._methods', 'tensorflow.python.ops.gen_cudnn_rnn_ops', 'sklearn.externals.six.moves.urllib.robotparser', 'sklearn.externals.six.moves.urllib_error', 'cv2.ocl', 'tensorflow.python.training.adadelta', 'pytz.exceptions', 'tensorflow.python.ops.distributions.student_t', 'tensorflow.keras.applications.inception_resnet_v2', 'bisect', 'scipy.ndimage.filters', 'tensorflow.python.ops.boosted_trees_ops', 'scipy.sparse.data', 'tensorflow.python.util.compat', 'tensorflow.python.ops.rnn', '_compat_pickle', 'yaml.dumper', 'requests.packages.urllib3.util.request', 'tensorflow.python.summary.plugin_asset', 'scipy.sparse.linalg.dsolve', 'tensorflow.python.keras.optimizers', 'requests.compat', 'numpy.polynomial', 'tensorflow.python.framework.meta_graph', 'tensorflow.keras.models', 'tensorflow.core.protobuf.cluster_pb2', 'tensorflow.keras.layers', '_operator', 'importlib.util', '_warnings', 'tensorflow.python.keras.layers.embeddings', 'numpy.lib._datasource', 'collections.abc', 'tensorflow.summary', 'numbers', 'scipy.sparse.sputils', '_imp', 'cv2.cv2', 'tensorflow.python.framework.graph_util', 'pytz.tzfile', 'scipy.optimize._lsq.least_squares', 'google.protobuf.internal', 'tensorflow.python.ops.control_flow_grad', 'urllib3.util.connection', 'tensorflow.python.data', 'tensorflow.python.ops.linalg.linear_operator_kronecker', 'struct', 'sklearn.utils._random', 'tensorflow.python.ops.candidate_sampling_ops', 'tensorflow.python.ops.distributions.dirichlet', 'tensorflow.python.saved_model.builder', 'google.protobuf.symbol_database', 'glob', 'multiprocessing.process', 'tensorflow.python.ops.gen_resource_variable_ops', 'numpy.lib._iotools', 'numpy.core.info', 'tensorflow.python.estimator.model_fn', 'yaml.composer', 'tensorflow.keras.constraints', 'cv2.instr', '_locale', 'tensorflow.python.estimator.inputs.pandas_io', 'h5py._hl.selections', 'sklearn.externals.six.moves', 'scipy.linalg', 'scipy.integrate', 'tensorflow.python.ops.sparse_grad', 'six.moves.urllib.error', 'ctypes', 'tensorflow.python.ops.data_flow_ops', 'tensorflow.python.user_ops.user_ops', 'hmac', 'scipy.interpolate.fitpack', 'contextlib', '_frozen_importlib_external', 'tensorflow.python.estimator.canned', 'tensorflow.python.ops.template', 'pkg_resources.extern.six.moves.urllib', 'tensorflow.python.ops.distributions.multinomial', 'tensorflow.losses', 'tensorflow.python.keras.utils.data_utils', 'sklearn', 'tensorflow.python.ops.spectral_ops', 'tensorflow.python.lib.io', 'numpy.lib.index_tricks', 'tensorflow.python.saved_model.simple_save', 'iris_tfrecord', 'numpy.version', 'json.decoder', 'scipy.optimize._trustregion_constr.projections', 'tensorflow.core.lib.core', 'html.entities', 'PIL._version', 'scipy._distributor_init', 'scipy._lib.messagestream', 'numpy.core._internal', 'email', 'yaml.emitter', 'unittest', 'tensorflow.python.framework.errors_impl', 'sklearn.externals.joblib.hashing', '_ctypes', 'sklearn.utils.random', 'tensorflow.python.estimator.export.export_lib', 'signal', 'requests.packages.urllib3.exceptions', 'tensorflow.train', 'tensorflow.python.feature_column', 'scipy.ndimage.measurements', 'tensorflow.python.estimator.export.export', 'argparse', 'tensorflow.python.ops.gen_state_ops', 'scipy.linalg.matfuncs', 'PIL._binary', 'numpy.polynomial.polyutils', 'tensorflow.python.estimator', 'tensorflow.python.ops.distributions.distribution', 'tensorflow.core.framework.allocation_description_pb2', 'tensorflow.core.framework.step_stats_pb2', 'scipy.integrate.quadpack', 'tensorflow.python.ops.nn_grad', 'cv2.structured_light', 'scipy.sparse.linalg.matfuncs', 'scipy.linalg.decomp_qr', 'sre_compile', 'pytz.tzinfo', '_frozen_importlib', 'scipy.linalg.linalg_version', 'tensorflow.python.ops.gen_manip_ops', 'types', 'tensorflow.python.ops.distributions.util', 'tensorflow.python.framework.op_def_library', 'socket', 'copyreg', 'xml.dom.xmlbuilder', 'sitecustomize', 'scipy.stats', 'importlib._bootstrap', 'cv2.face', 'tensorflow.python.keras.engine.training_generator', 'pydoc', 'requests.packages.urllib3.util.retry', 'tensorflow.python.training.slot_creator', 'sklearn.utils.sparsefuncs_fast', 'builtins', 'tensorflow.python.estimator.canned.dnn_linear_combined', 'tensorflow.python.framework.versions', 'sklearn.externals.joblib.backports', 'tensorflow.python.ops.rnn_cell', 'tensorflow.python.ops.gen_image_ops', 'h5py.h5t', 'scipy.linalg._flinalg', 'scipy.optimize._trustregion_dogleg', 'tensorflow.python.ops.control_flow_ops', 'xml.dom.minidom', 'scipy.integrate.odepack', 'tokenize', 'heapq', 'scipy.spatial.ckdtree', 'string', 'scipy.special._logsumexp', 'tensorflow.python.ops.state_grad', 'cv2.xphoto', 'tensorflow.python.ops.image_ops_impl', 'datetime', 'tensorflow.python.layers.utils', 'tensorflow.core.protobuf.debug_pb2', 'swig_runtime_data4', 'sklearn.utils.multiclass', 'tensorflow.metrics', 'scipy.stats.mstats_extras', 'scipy.optimize.zeros', 'tensorflow.python.ops.functional_ops', 'tensorflow.python.framework.c_api_util', 'tensorflow.python.ops.linalg.linear_operator_lower_triangular', 'zipimport', 'scipy.ndimage.morphology', 'sklearn.externals.joblib.disk', 'requests.hooks', 'numpy.compat._inspect', 'pkg_resources', '_pickle', 'tensorflow.python.keras.applications.xception', 'mimetypes', 'urllib.request', 'tensorflow.python.ops.gen_parsing_ops', 'scipy.optimize._linprog', 'sklearn.externals.six', 'tensorflow.python.ops.distributions.uniform', 'cv2.ogl', '_weakrefset', 'scipy.spatial.qhull', 'scipy.sparse.csgraph._shortest_path', 'logging', 'weakref', 'tensorflow.python.ops.gen_dataset_ops', 'numpy.lib.twodim_base', 'tensorflow.core.protobuf.queue_runner_pb2', 'tensorflow.python.saved_model.builder_impl', 'scipy.linalg.cython_blas', 'tensorflow.python.ops.metrics_impl', 'email.encoders', 'numpy.random.mtrand', 'hashlib', 'email.quoprimime', 'tensorflow.python.framework.tensor_shape', 'matplotlib.cbook._backports', '_cython_0_28_3', 'scipy.sparse.linalg._norm', 'numpy.core.umath', 'tensorflow.python.training.supervisor', 'tensorflow.python.profiler.tfprof_logger', 'scipy.stats._distn_infrastructure', 'h5py.h5py_warnings', 'tensorflow.python.keras.preprocessing.sequence', 'numpy.ma', 'scipy.sparse.csgraph._traversal', 'numpy.fft.fftpack', 'h5py.h5d', 'tensorflow.python.framework.cpp_shape_inference_pb2', 'xml.parsers.expat', 'pandas.compat.chainmap', 'scipy.ndimage', 'scipy.stats._tukeylambda_stats', 'tensorflow.python.ops.state_ops', 'tensorflow.python.training.distribute', 'tensorflow.python.ops.math_grad', 'tensorflow.python.estimator.keras', 'unittest.loader', 'scipy.integrate._ivp.bdf', 'tensorflow.python.keras.applications.nasnet', 'tensorflow.python.saved_model.main_op', 'tensorflow.python.keras.applications', 'tensorflow.python.keras.utils.io_utils', 'numpy.fft.info', 'requests.packages.urllib3.util.response', 'tensorflow.estimator.export', 'scipy.sparse._matrix_io', 'token', 'scipy.stats.distributions', '_collections_abc', 'tensorflow.python.ops.linalg.linalg', 'iris_processing', 'urllib3.util.response', 'scipy._lib._testutils', 'sys', 'tensorflow.python.keras.datasets.mnist', 'tensorflow.python.ops.sparse_ops', 'scipy.optimize', '__mp_main__', 'scipy.misc.doccer', 'scipy.linalg.decomp_cholesky', 'unittest.main', 'decimal', 'numpy._distributor_init', '__future__', 'sklearn.model_selection._search', 'numpy.polynomial.chebyshev', 'tensorflow.python.training.basic_loops', 'scipy.optimize._trustregion_constr', '_hashlib', 'pkg_resources.extern.six', 'tensorflow.keras.preprocessing', 'scipy.linalg._solve_toeplitz', 'requests.packages.urllib3.util.timeout', 'urllib3.util.request', 'scipy.sparse.linalg.isolve.lgmres', 'tensorflow.python.keras.losses', 'scipy.optimize.moduleTNC', 'cv2.rgbd', 'scipy.stats.morestats', 'tensorflow.python.ops.nn_ops', 'tensorflow.python.training.session_run_hook', 'tensorflow.python.training.checkpoint_ops', 'tensorflow.python.eager.graph_only_ops', 'tensorflow.python.ops.logging_ops', 'scipy.stats.statlib', 'cv2.datasets', 'tensorflow.keras.datasets.fashion_mnist', 'tensorflow.python.platform.flags', 'sklearn.metrics.cluster', 'tensorflow.python.ops.sdca_ops', '_struct', 'scipy', 'importlib', 'scipy.sparse.bsr', 'tensorflow.app', 'tensorflow.python.ops.linalg_ops_impl', 'cv2.detail', 'tensorflow.errors', 'tensorflow.python.estimator.estimator', 'sklearn.model_selection', 'opcode', 'scipy.integrate._bvp', 'urllib3.util.timeout', 'sklearn.externals.joblib.numpy_pickle', 'numpy.ma.core', 'tensorflow.python.keras.wrappers', 'tensorflow.core.protobuf.rewriter_config_pb2', 'email._encoded_words', 'scipy.sparse.construct', 'tensorflow.python.keras.datasets.reuters', 'scipy.sparse.linalg.eigen.lobpcg', 'tensorflow.python.keras.regularizers', 'tensorflow.python_io', 'tensorflow.core.lib.core.error_codes_pb2', 'tensorflow.python.saved_model.main_op_impl', 'tensorflow.python.estimator.training', 'scipy.sparse.linalg.isolve', 'ctypes.util', 'sklearn.preprocessing.label', 'tensorflow.python.summary.summary', '_functools', 'yaml.parser', 'urllib', 'tensorflow.python.ops.script_ops', 'tensorflow.python.keras.datasets.fashion_mnist', 'tensorflow.python.framework', 'numpy.fft.helper', 'tensorflow.python.framework.tensor_util', 'tensorflow.python.training.adagrad_da', 'tensorflow.saved_model.tag_constants', 'tensorflow.python.framework.constant_op', 'sklearn.metrics.classification', 'tensorflow.python.profiler.model_analyzer', 'requests.packages.urllib3.connection', 'scipy.sparse.dok', 'tensorflow.python.keras.engine.base_layer', 'tensorflow.python.ops.control_flow_util', 'tensorflow.python.keras.engine.network', 'scipy._lib._threadsafety', 'google.protobuf.pyext._message', 'urllib3.util', 'requests.packages.urllib3.packages', 'tensorflow.python.training.saver', 'requests.packages.urllib3.fields', 'tensorflow.python.keras.layers.merge', 'tensorflow.python.ops.resource_variable_ops', 'tensorflow.python.user_ops', 'tensorflow.python.estimator.gc', 'unittest.util', 'scipy.stats.stats', 'tensorflow.core.protobuf.checkpointable_object_graph_pb2', 'tensorflow.python.training.proximal_adagrad', 'scipy.interpolate._fitpack_impl', 'tensorflow.python.framework.registry', 'tensorflow.python.keras.datasets.cifar100', 'h5py._hl.dataset', 'tensorflow.python.data.ops.iterator_ops', 'google.protobuf.internal.enum_type_wrapper', '_string', 'requests.sessions', 'cv2.img_hash', 'pkg_resources.py31compat', 'tensorflow.python.keras.layers', 'google.protobuf.internal.containers', 'tensorflow.python.keras.layers.local', 'distutils.errors', 'cv2.Error', 'tensorflow.keras.datasets.boston_housing', 'numpy.lib.stride_tricks', 'scipy.optimize._minimize', 'scipy._lib._ccallback_c', 'scipy.linalg.special_matrices', 'tensorflow.python.training.monitored_session', 'scipy.sparse', 'tensorflow.python.ops.gradient_checker', 'scipy.optimize._trustregion_constr.equality_constrained_sqp', 'tensorflow.python.feature_column.feature_column', 'urllib3.connectionpool', 'getpass', 'tensorflow.core.protobuf.saver_pb2', 'scipy.optimize._numdiff', 'urllib3.connection', 'tensorflow.initializers', 'urllib3.poolmanager', 'scipy.integrate.vode', 'pprint', 'tensorflow.python.ops.linalg.linear_operator_full_matrix', 'scipy.integrate._ivp.rk', 'tensorflow.sets', '_cython_0_27_1', 'tensorflow.python.estimator.canned.dnn', 'tensorflow.python.training.session_manager', 'unittest.signals', '_bisect', 'tensorflow.profiler', 'tensorflow.python.ops.distributions.distributions', 'google', 'h5py.h5', 'site', 'http.cookies', 'tensorflow.core.framework.types_pb2', 'scipy.stats.mvn', 'tensorflow.python.ops.string_ops', 'sklearn.externals.six.moves.urllib.parse', 'numpy.testing.nose_tools.nosetester', 'difflib', 'tensorflow.python.training.adagrad', 'scipy.sparse.linalg.dsolve.linsolve', 'tensorflow.python.util.function_utils', 'codecs', 'mpl_toolkits', 'requests.packages.chardet', 'ipaddress', 'tensorflow.saved_model', 'lzma', 'scipy.spatial._distance_wrap', 'scipy.linalg.decomp_schur', 'tensorflow.python.ops.gen_sparse_ops', 'tensorflow.python.ops.variables', 'scipy.optimize._basinhopping', 'tensorflow.python.ops.manip_ops', 'tensorflow.python.eager.imperative_grad', 'scipy.optimize._trlib._trlib', 'pkg_resources.extern.packaging.specifiers', 'tensorflow.python.ops.linalg.linear_operator_identity', 'scipy.sparse.linalg.isolve.minres', '_json', 'queue', 'google.protobuf.internal.api_implementation', 'tensorflow.python.ops.array_grad', 'scipy.optimize._trustregion_constr.qp_subproblem', 'tensorflow.python.summary.writer.event_file_writer_v2', 'sklearn.utils.extmath', 'tensorflow.python.keras.wrappers.scikit_learn', 'scipy.optimize._cobyla', 'urllib3.filepost', 'h5py._objects', 'tensorflow.python.saved_model.loader', 'tensorflow.python.keras.metrics', 'numpy.polynomial.polynomial', '_heapq', 'tensorflow.python.ops.gen_string_ops', 'six.moves', 'xml.parsers', 'numpy.core.numeric', 'tensorflow.python.estimator.inputs.queues', 'tensorflow.python.platform.googletest', 'requests', 'scipy._lib._version', 'scipy.ndimage.fourier', 'mtrand', 'scipy.stats._stats_mstats_common', 'scipy._lib', 'tensorflow.python.estimator.inputs.inputs', 'tensorflow.python.eager.tape', 'tensorflow.python.saved_model.tag_constants', 'pytz', 'tensorflow.saved_model.main_op', 'tensorflow.python.ops.bitwise_ops', 'h5py._hl.compat', 'scipy.optimize._linprog_ip', 'tensorflow.core.framework.variable_pb2', 'fcntl', 'tensorflow.python.ops.math_ops', 'tensorflow.python.framework.function', 'tensorflow.core.framework.summary_pb2', 'tensorflow.python.keras.layers.convolutional', 'scipy.interpolate', 'numpy', 'numpy.polynomial.hermite_e', 'scipy.stats._binned_statistic', 'tensorflow.python.ops.gen_data_flow_ops', 'yaml.loader', 'tensorflow.python.training.checkpointable.util', 'ast', 'tensorflow.python.training.server_lib', 'tensorflow.resource_loader', 'tensorflow.python.util.protobuf.compare', 'requests.packages.urllib3.filepost', 'tensorflow.python.ops.summary_ops', 'scipy.stats._distr_params', 'scipy.optimize._nnls', 'tensorflow.core.framework.versions_pb2', 'tensorflow.python.ops.gen_user_ops', 'xml.dom.NodeFilter', 'tensorflow.core.util.event_pb2', 'yaml.resolver', 'tensorflow.python.ops.gen_random_ops', 'sklearn.externals.six.moves.urllib.response', 'ntpath', 'scipy.special', 'numpy.dual', 'tensorflow.estimator', 'tensorflow.python.training.saveable_object', 'scipy.optimize._lsq.trf_linear', 'PIL.ImageFilter', 'tensorflow.python.platform.test', 'tensorflow.python.keras.callbacks', 'scipy.special._ufuncs', 'h5py.h5s', 'tensorflow.python.summary.summary_iterator', 'scipy.optimize._lsq.common', 'pickle', 'numpy.lib.polynomial', 'tensorflow.python.estimator.exporter', 'urllib3.fields', 'pyparsing', 'tensorflow.python.saved_model', 'pkg_resources._vendor', 'google.protobuf.any_pb2', 'numpy.linalg.info', 'scipy.linalg._decomp_qz', 'pkgutil', 'tensorflow.python.lib.io.file_io', 'scipy.integrate._ivp.common', 'scipy.sparse.extract', 'cv2.ximgproc', 'cv2', 'numpy.linalg.lapack_lite', 'urllib3.packages', 'numpy.fft.fftpack_lite', 'keyword', 'numpy.lib.financial', 'tensorflow.python.ops.manip_grad', 'tensorflow.python.platform.benchmark', 'numpy.__config__', 'tensorflow.python.ops.gen_io_ops', 'tensorflow.python.keras.layers.pooling', 'h5py.h5a', 'numpy.core.machar', '_sre', 'sklearn.externals.joblib._compat', 'tensorflow.python.framework.dtypes', 'sklearn.externals.joblib.numpy_pickle_compat', '_pywrap_tensorflow_internal', 'pyexpat.errors', '_decimal', 'tensorflow.python.ops.gen_candidate_sampling_ops', 'google.protobuf.json_format', 'tensorflow.python.estimator.canned.prediction_keys', 'sklearn.preprocessing.data', 'numpy.lib.arrayterator', 'genericpath', 'sklearn.model_selection._split', 'google.protobuf.internal.encoder', 'numpy.testing.nosetester', 'scipy.sparse.linalg.isolve.lsqr', 'pkg_resources._vendor.six', 'abc', 'tensorflow.python.ops.rnn_cell_impl', 'tensorflow.python.training.device_setter', 'sklearn.externals.joblib._parallel_backends', 'scipy.sparse.coo', 'tensorflow.python.estimator.export', 'scipy.linalg._flapack', 'cycler', 'tensorflow.keras.callbacks', 'tensorflow.python.training.proximal_gradient_descent', 'sklearn.externals.six.moves.urllib.request', 'scipy.integrate.lsoda', 'importlib.abc', 'cv2.dnn', 'yaml.reader', 'tensorflow.python.ops.gen_bitwise_ops', 'tensorflow.python.ops.tensor_array_ops', 'tensorflow.estimator.inputs', 'tensorflow.python.platform.self_check', 'scipy.special.sf_error', 'tensorflow.python.training.basic_session_run_hooks', 'numpy.ctypeslib', 'uuid', 'numpy.fft', 'six.moves.urllib', 'tensorflow.python.keras.engine', 'tensorflow.python.training.gen_training_ops', 'copy', '_ssl', 'tensorflow.python.ops.sets', 'tensorflow.strings', 'cv2.ppf_match_3d', 'numpy.linalg._umath_linalg', 'sklearn.metrics.cluster.expected_mutual_info_fast', 'tensorflow.python.keras.utils.layer_utils', 'pyexpat.model', 'tensorflow.python.ops.nn', 'scipy.stats._continuous_distns', 'scipy.linalg.basic', 'scipy.special.lambertw', 'tensorflow.python.estimator.inputs.queues.feeding_functions', 'tensorflow.keras.metrics', 'tensorflow.keras.applications.inception_v3', 'tensorflow.python.data.ops.dataset_ops', 'tensorflow.python.util.tf_should_use', 'tensorflow.python.data.ops.readers', 'scipy.sparse.lil', 'numpy.testing.decorators', 'tensorflow.nn', 'tensorflow.python.ops.summary_op_util', 'tensorflow.core.protobuf.config_pb2', 'h5py._hl.group', 'tensorflow.python.training.input', 'tensorflow.python.ops.gen_logging_ops', 'tensorflow.python.util.tf_inspect', 'scipy.sparse.linalg.dsolve._superlu']
+Tue, 07 Aug 2018 20:46:06 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 20:47:56 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 20:48:02 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 20:58:27 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 20:58:30 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:07:38 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:07:41 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:07:42 - INFO - Error reported to Coordinator: <class 'tensorflow.python.framework.errors_impl.FailedPreconditionError'>, Attempting to use uninitialized value input_producer/limit_epochs/epochs
+	 [[Node: input_producer/limit_epochs/CountUpTo = CountUpTo[T=DT_INT64, limit=6000, _device="/job:localhost/replica:0/task:0/device:CPU:0"](input_producer/limit_epochs/epochs)]]
+Tue, 07 Aug 2018 21:07:43 - INFO - Restoring parameters from /home/chen/IrisReco/model_center_nor/model.ckpt-6000
+Tue, 07 Aug 2018 21:10:40 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:10:43 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:10:44 - INFO - Restoring parameters from /home/chen/IrisReco/model_center_nor/model.ckpt-6000
+Tue, 07 Aug 2018 21:10:45 - INFO - Error reported to Coordinator: <class 'tensorflow.python.framework.errors_impl.CancelledError'>, Enqueue operation was cancelled
+	 [[Node: input_producer/input_producer_EnqueueMany = QueueEnqueueManyV2[Tcomponents=[DT_STRING], timeout_ms=-1, _device="/job:localhost/replica:0/task:0/device:CPU:0"](input_producer, input_producer/Const, ^input_producer/Assert/Assert, ^input_producer/limit_epochs/CountUpTo)]]
+Tue, 07 Aug 2018 21:16:30 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:16:33 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:18:23 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:18:26 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:24:13 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:24:16 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:26:40 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:26:43 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:27:01 - ERROR - 103train.tfrecods or 103test.tfrecods already exsist
+Tue, 07 Aug 2018 21:27:04 - WARNING - From /home/chen/IrisReco/python/iris_model.py:239: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+Tue, 07 Aug 2018 21:27:06 - INFO - Restoring parameters from /home/chen/IrisReco/model_center_nor/model.ckpt-6000
+Tue, 07 Aug 2018 21:27:06 - INFO - Error reported to Coordinator: <class 'tensorflow.python.framework.errors_impl.CancelledError'>, Enqueue operation was cancelled
+	 [[Node: input_producer/input_producer_EnqueueMany = QueueEnqueueManyV2[Tcomponents=[DT_STRING], timeout_ms=-1, _device="/job:localhost/replica:0/task:0/device:CPU:0"](input_producer, input_producer/Const, ^input_producer/Assert/Assert, ^input_producer/limit_epochs/CountUpTo)]]
