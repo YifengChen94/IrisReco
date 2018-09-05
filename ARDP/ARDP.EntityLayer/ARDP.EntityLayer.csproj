@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3CE8D6E5-80DF-4737-BAAD-4156C951E7FA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ARDP.EntityLayer</RootNamespace>
+    <AssemblyName>ARDP.EntityLayer</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\ARDP.WinUI\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\AccountEntity.cs" />
+    <Compile Include="Entity\BcpbackgroundEntity.cs" />
+    <Compile Include="Entity\BcphelpsellcorrectareaEntity.cs" />
+    <Compile Include="Entity\BcpquestionEntity.cs" />
+    <Compile Include="Entity\BcpquestionoptionEntity.cs" />
+    <Compile Include="Entity\BcptaskbossEntity.cs" />
+    <Compile Include="Entity\BcptaskEntity.cs" />
+    <Compile Include="Entity\BcptaskhelpselltoolsEntity.cs" />
+    <Compile Include="Entity\BcptaskquestionEntity.cs" />
+    <Compile Include="Entity\BcptaskshelfEntity.cs" />
+    <Compile Include="Entity\BossEntity.cs" />
+    <Compile Include="Entity\ClothingEntity.cs" />
+    <Compile Include="Entity\BcptaskstackEntity.cs" />
+    <Compile Include="Entity\BcpstackcorrectareaEntity.cs" />
+    <Compile Include="Entity\RankEntity.cs" />
+    <Compile Include="Entity\MapLayerSaveEntity.cs" />
+    <Compile Include="Entity\FaceEntity.cs" />
+    <Compile Include="Entity\HelpselltoolEntity.cs" />
+    <Compile Include="Entity\HubEntity.cs" />
+    <Compile Include="Entity\KsaDialogEntity.cs" />
+    <Compile Include="Entity\KsaEntity.cs" />
+    <Compile Include="Entity\MapEntity.cs" />
+    <Compile Include="Entity\MapregionsaveEntity.cs" />
+    <Compile Include="Entity\MapsaveEntity.cs" />
+    <Compile Include="Entity\QuestionEntity.cs" />
+    <Compile Include="Entity\ReplyEntity.cs" />
+    <Compile Include="Entity\ResumeBackgoundEntity.cs" />
+    <Compile Include="Entity\ResumeEntity.cs" />
+    <Compile Include="Entity\ResumeExperienceEntity.cs" />
+    <Compile Include="Entity\RolebcptaskEntity.cs" />
+    <Compile Include="Entity\RoleclothingEntity.cs" />
+    <Compile Include="Entity\RoleEntity.cs" />
+    <Compile Include="Entity\RolestoryEntity.cs" />
+    <Compile Include="Entity\SavesEntity.cs" />
+    <Compile Include="Entity\ShelfEntity.cs" />
+    <Compile Include="Entity\ShelfsortEntity.cs" />
+    <Compile Include="Entity\SingleOptionEntity.cs" />
+    <Compile Include="Entity\SingleQuestionEntity.cs" />
+    <Compile Include="Entity\StoreEntity.cs" />
+    <Compile Include="Entity\StoreextendEntity.cs" />
+    <Compile Include="Entity\StoreextendsaveEntity.cs" />
+    <Compile Include="Entity\StoretypeEntity.cs" />
+    <Compile Include="Entity\StoryEntity.cs" />
+    <Compile Include="Entity\StoryRecordEntity.cs" />
+    <Compile Include="Entity\TaskEntity.cs" />
+    <Compile Include="Entity\UserstoryrecordEntity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Schema\AccountTable.cs" />
+    <Compile Include="Schema\BcpbackgroundTable.cs" />
+    <Compile Include="Schema\BcphelpsellcorrectareaTable.cs" />
+    <Compile Include="Schema\BcpquestionoptionTable.cs" />
+    <Compile Include="Schema\BcpquestionTable.cs" />
+    <Compile Include="Schema\BcptaskbossTable.cs" />
+    <Compile Include="Schema\BcptaskhelpselltoolsTable.cs" />
+    <Compile Include="Schema\BcptaskquestionTable.cs" />
+    <Compile Include="Schema\BcptaskshelfTable.cs" />
+    <Compile Include="Schema\BcptaskTable.cs" />
+    <Compile Include="Schema\BossTable.cs" />
+    <Compile Include="Schema\ClothingTable.cs" />
+    <Compile Include="Schema\BcptaskstackTable.cs" />
+    <Compile Include="Schema\BcpstackcorrectareaTable.cs" />
+    <Compile Include="Schema\RankTable.cs" />
+    <Compile Include="Schema\MapLayerSaveTable.cs" />
+    <Compile Include="Schema\FaceTable.cs" />
+    <Compile Include="Schema\HelpselltoolTable.cs" />
+    <Compile Include="Schema\HubTable.cs" />
+    <Compile Include="Schema\KsaDialogTable.cs" />
+    <Compile Include="Schema\KsaTable.cs" />
+    <Compile Include="Schema\MapregionsaveTable.cs" />
+    <Compile Include="Schema\MapsaveTable.cs" />
+    <Compile Include="Schema\MapTable.cs" />
+    <Compile Include="Schema\QuestionTable.cs" />
+    <Compile Include="Schema\ReplyTable.cs" />
+    <Compile Include="Schema\ResemeTable.cs" />
+    <Compile Include="Schema\ResumeBackgoundTable.cs" />
+    <Compile Include="Schema\ResumeExperienceTable.cs" />
+    <Compile Include="Schema\RolebcptaskTable.cs" />
+    <Compile Include="Schema\RoleclothingTable.cs" />
+    <Compile Include="Schema\RolestoryTable.cs" />
+    <Compile Include="Schema\RoleTable.cs" />
+    <Compile Include="Schema\SavesTable.cs" />
+    <Compile Include="Schema\ShelfsortTable.cs" />
+    <Compile Include="Schema\ShelfTable.cs" />
+    <Compile Include="Schema\SingleOptionTable.cs" />
+    <Compile Include="Schema\SingleQuestionTable.cs" />
+    <Compile Include="Schema\StoreextendsaveTable.cs" />
+    <Compile Include="Schema\StoreextendTable.cs" />
+    <Compile Include="Schema\StoreTable.cs" />
+    <Compile Include="Schema\StoretypeTable.cs" />
+    <Compile Include="Schema\StoryRecordTable.cs" />
+    <Compile Include="Schema\StoryTable.cs" />
+    <Compile Include="Schema\TaskTable.cs" />
+    <Compile Include="Schema\UserstoryrecordTable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\EntityCore\EntityCore.csproj">
+      <Project>{4B5A4673-E54F-4586-BA87-DB254092C46C}</Project>
+      <Name>EntityCore</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\EntityCore\bin\Debug\EntityCore.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\EntityCore\bin\Debug\EntityCore.pdb
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\EntityCore\obj\Debug\ResolveAssemblyReference.cache
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\EntityCore\obj\Debug\EntityCore.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\EntityCore\obj\Debug\EntityCore.pdb
