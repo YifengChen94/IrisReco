@@ -1,0 +1,16 @@
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\bin\Debug\SQLite.DataAccess.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\bin\Debug\SQLite.DataAccess.pdb
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\bin\Debug\EntityCore.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\bin\Debug\EntityCore.pdb
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\obj\Debug\SQLite.DataAccess.dll
+E:\myproject\Net WinForm\ARDP\1 Source Code\ARDP\DataAccess\DataAccess\obj\Debug\SQLite.DataAccess.pdb
+D:\IrisReco\RIS\DataAccess\bin\Debug\SQLite.DataAccess.dll
+D:\IrisReco\RIS\DataAccess\bin\Debug\SQLite.DataAccess.pdb
+D:\IrisReco\RIS\DataAccess\bin\Debug\EntityCore.dll
+D:\IrisReco\RIS\DataAccess\bin\Debug\EntityCore.pdb
+D:\IrisReco\RIS\DataAccess\obj\Debug\SQLite.DataAccess.csprojResolveAssemblyReference.cache
+D:\IrisReco\RIS\DataAccess\obj\Debug\SQLite.DataAccess.dll
+D:\IrisReco\RIS\DataAccess\obj\Debug\SQLite.DataAccess.pdb
+D:\IrisReco\RIS\DataAccess\bin\Debug\System.Data.SQLite.dll

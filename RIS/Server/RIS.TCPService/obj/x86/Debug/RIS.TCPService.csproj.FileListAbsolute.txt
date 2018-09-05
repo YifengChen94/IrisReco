@@ -1,0 +1,10 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe.config
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\obj\x86\Debug\Suzsoft.DDP.WindowsService.ProjectInstaller.resources
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\obj\x86\Debug\RIS.TCPService.csproj.GenerateResource.Cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\obj\x86\Debug\RIS.TCPService.exe
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\obj\x86\Debug\RIS.TCPService.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\install.bat
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\uninstall.bat
+D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\DataAccessConfiguration.config

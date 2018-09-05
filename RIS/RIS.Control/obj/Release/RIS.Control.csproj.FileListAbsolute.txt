@@ -1,0 +1,6 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\bin\Release\RIS.Control.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\bin\Release\RIS.Control.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\bin\Release\WPFMediaKit.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\obj\Release\RIS.Control.csprojResolveAssemblyReference.cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\obj\Release\RIS.Control.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Control\obj\Release\RIS.Control.pdb

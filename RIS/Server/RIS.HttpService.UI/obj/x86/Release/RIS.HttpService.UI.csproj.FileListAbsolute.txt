@@ -1,0 +1,17 @@
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\DataAccessConfiguration.config
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.HttpService.UI.exe.config
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.HttpService.UI.exe
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.HttpService.UI.pdb
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\Newtonsoft.Json.dll
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.BusinessRule.dll
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.Common.dll
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.Entity.dll
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.BusinessRule.pdb
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.Common.pdb
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\bin\Release\RIS.Entity.pdb
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\obj\x86\Release\RIS.HttpService.UI.frmMain.resources
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\obj\x86\Release\RIS.HttpService.UI.Properties.Resources.resources
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\obj\x86\Release\RIS.HttpService.UI.csproj.GenerateResource.Cache
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\obj\x86\Release\RIS.HttpService.UI.exe
+D:\myproject\讯智\虹膜识别\RIS\Server\RIS.HttpService.UI\obj\x86\Release\RIS.HttpService.UI.pdb

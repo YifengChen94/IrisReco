@@ -1,0 +1,9 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\RIS.Common.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\RIS.Common.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\EntityCore.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\Newtonsoft.Json.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\RIS.Entity.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\bin\Release\RIS.Entity.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\obj\Release\RIS.Common.csprojResolveAssemblyReference.cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\obj\Release\RIS.Common.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Common\obj\Release\RIS.Common.pdb

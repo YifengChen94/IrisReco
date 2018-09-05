@@ -1,0 +1,85 @@
+﻿正在安装程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在安装服务 TCPService...
+已成功安装服务 TCPService。
+正在日志 Application 中创建 EventLog 源 TCPService...
+正在提交程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 RIS.TCPService。
+警告: 源 RIS.TCPService 未在本地计算机上注册。
+正在从系统中移除服务 RIS.TCPService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 RIS.TCPService。
+正在从系统中移除服务 RIS.TCPService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 RIS.TCPService。
+警告: 源 RIS.TCPService 未在本地计算机上注册。
+正在从系统中移除服务 RIS.TCPService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 RIS.TCPService。
+警告: 源 RIS.TCPService 未在本地计算机上注册。
+正在从系统中移除服务 RIS.TCPService...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 TCPService。
+正在从系统中移除服务 TCPService...
+已成功地从系统中移除服务 TCPService。
+正在安装程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在安装服务 RIS.TCPService...
+已成功安装服务 RIS.TCPService。
+正在日志 Application 中创建 EventLog 源 RIS.TCPService...
+正在提交程序集“D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在卸载程序集“D:\myproject\讯智\虹膜识别\RIS\Server\RIS.TCPService\bin\Debug\RIS.TCPService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\myproject\讯智\虹膜识别\RIS\Server\RIS.TCPService\bin\Debug\RIS.TCPService.InstallLog
+   assemblypath = D:\myproject\讯智\虹膜识别\RIS\Server\RIS.TCPService\bin\Debug\RIS.TCPService.exe
+正在移除 EventLog 源 RIS.TCPService。
+正在从系统中移除服务 RIS.TCPService...
+已成功地从系统中移除服务 RIS.TCPService。

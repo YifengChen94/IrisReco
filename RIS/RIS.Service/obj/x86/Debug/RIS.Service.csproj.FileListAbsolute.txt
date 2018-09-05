@@ -1,0 +1,6 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\obj\x86\Debug\RIS.Service.csproj.GenerateResource.Cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\bin\Debug\RIS.Service.exe
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\bin\Debug\RIS.Service.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\obj\x86\Debug\RIS.Service.ProjectInstaller.resources
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\obj\x86\Debug\RIS.Service.exe
+D:\myproject\讯智\虹膜识别\RIS\RIS.Service\obj\x86\Debug\RIS.Service.pdb

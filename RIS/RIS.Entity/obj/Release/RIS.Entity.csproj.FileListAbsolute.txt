@@ -1,0 +1,6 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\bin\Release\RIS.Entity.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\bin\Release\RIS.Entity.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\bin\Release\EntityCore.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\obj\Release\RIS.Entity.csprojResolveAssemblyReference.cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\obj\Release\RIS.Entity.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.Entity\obj\Release\RIS.Entity.pdb

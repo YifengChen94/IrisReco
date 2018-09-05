@@ -1,0 +1,7 @@
+D:\myproject\讯智\虹膜识别\RIS\hardcode\bin\Release\hardcode.exe
+D:\myproject\讯智\虹膜识别\RIS\hardcode\bin\Release\hardcode.pdb
+D:\myproject\讯智\虹膜识别\RIS\hardcode\obj\x86\Release\hardcode.Form1.resources
+D:\myproject\讯智\虹膜识别\RIS\hardcode\obj\x86\Release\hardcode.Properties.Resources.resources
+D:\myproject\讯智\虹膜识别\RIS\hardcode\obj\x86\Release\hardcode.csproj.GenerateResource.Cache
+D:\myproject\讯智\虹膜识别\RIS\hardcode\obj\x86\Release\hardcode.exe
+D:\myproject\讯智\虹膜识别\RIS\hardcode\obj\x86\Release\hardcode.pdb

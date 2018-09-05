@@ -1,0 +1,13 @@
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.BusinessRule.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.BusinessRule.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\Data.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\EntityCore.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.Common.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.Entity.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\Newtonsoft.Json.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.Common.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\bin\Release\RIS.Entity.pdb
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\obj\Release\RIS.BusinessRule.csprojResolveAssemblyReference.cache
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\obj\Release\RIS.BusinessRule.dll
+D:\myproject\讯智\虹膜识别\RIS\RIS.BusinessRule\obj\Release\RIS.BusinessRule.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RIS">
+</Property><Property Name="Solution File" Value="D:\IrisReco\RIS\RIS.sln">
+</Property><Property Name="Date" Value="2018年6月26日">
+</Property><Property Name="Time" Value="15:07:11">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\EntityCore.csproj" Description="Project file successfully backed up as D:\IrisReco\RIS\Backup1\EntityCore.csproj">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Entity\BusinessState.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Entity\BusinessState.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Entity\EntityBase.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Entity\EntityBase.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Entity\EntityCollection.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Entity\EntityCollection.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Entity\EntitySerializer.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Entity\EntitySerializer.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Entity\PerformanceEntityCollection.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Entity\PerformanceEntityCollection.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Parameter\DataAccessParameter.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Parameter\DataAccessParameter.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Parameter\DataAccessParameterCollection.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Parameter\DataAccessParameterCollection.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Schema\ColumnInfo.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Schema\ColumnInfo.cs">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\Schema\TableInfo.cs" Description="File successfully backed up as D:\IrisReco\RIS\Backup1\Schema\TableInfo.cs">
+</Event><Event ErrorLevel="1" Project="EntityCore" Source="EntityCore\EntityCore.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\EntityCore.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EntityCore" Source="EntityCore\EntityCore.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EntityCore" Source="EntityCore\EntityCore.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
